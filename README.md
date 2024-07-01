@@ -37,11 +37,3 @@ O aprendizado por reforço se baseia em agentes que aprendem a tomar decisões a
 #### 1.3. Modelagem preditiva
 
 Modelagem preditiva envolve a criação de modelos que podem prever resultados futuros com base em dados históricos. Esta seção abordará as etapas do processo de modelagem preditiva, desde a preparação dos dados até a validação e implementação do modelo. Exploraremos técnicas como regressão, classificação e modelos de séries temporais, fornecendo exemplos práticos e estudos de caso para ilustrar o processo.
-
----
-
-Sinta-se à vontade para explorar cada unidade e aprofundar seus conhecimentos. Todos os exemplos de código e datasets estão disponíveis neste repositório. Esperamos que você aproveite o curso e se sinta mais preparado para enfrentar desafios reais de análise de dados.
-
-Para dúvidas ou sugestões, por favor, abra uma issue neste repositório.
-
----
