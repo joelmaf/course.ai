@@ -4,6 +4,8 @@ Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao J
 
 Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua máquina e uma IDE como VSCode ou Anaconda Navigator. Você também pode usar o ambiente Google Colab (https://colab.research.google.com) para testar e modificar os códigos. Aliás, alguns dos nossos exemplos serão feitos nessa plataforma.
 
+<div style="position: relative; overflow: hidden; aspect-ratio: 1920/1080"><iframe src="https://share.synthesia.io/embeds/videos/42da21fb-4c2f-4a78-a724-dc107b0f920b" loading="lazy" title="Synthesia video player - Fundamentos de Data Science" allowfullscreen allow="encrypted-media; fullscreen;" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0; overflow:hidden;"></iframe></div>
+
 Abaixo está a descrição do conteúdo abordado em cada unidade.
 
 **UNIDADE 1: Inteligência Artificial**
