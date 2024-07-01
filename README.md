@@ -2,9 +2,11 @@
 
 Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário! Este repositório contém todo o material necessário para acompanhar as aulas, incluindo códigos, datasets, slides e referências adicionais. Ele ficará disponível durante todo o período de estudos.
 
+O objetivo desse curso não é explorar a imensa variedade de algoritmos, frameworks e técnicas de Análise de Dados e Aprendizado de Máquina, mas sim apresentar o processo de construção de aplicações de Inteligência Artificial (IA) que sirva como um referencial para desenvolver uma solução que se adapte melhor ao problema a ser resolvido.
+
 Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua máquina e uma IDE como VSCode ou Anaconda Navigator. Você também pode usar o ambiente Google Colab (https://colab.research.google.com) para testar e modificar os códigos. Aliás, alguns dos nossos exemplos serão feitos nessa plataforma.
 
-Apenas como uma provocação, este é um vídeo que fiz usando as plataformas da Synthesia e OpenAI para testar como a IA poderia me ajudar no trabalho. A definição do conteúdo a ser abordado, os slides, as imagens, o roteiro, o avatar e a voz foram todos criados com a ajuda da Inteligência Artificial.
+Apenas como uma provocação, este é um vídeo que fiz (sem muitos cuidados estéticos ou zelo) usando as plataformas da Synthesia e OpenAI para testar como a IA poderia me ajudar no trabalho. A definição do conteúdo a ser abordado, os slides, as imagens, o roteiro, o avatar e a voz foram todos criados com a ajuda da Inteligência Artificial.
 
 
 [![Profissões da Ciência de Dados](images/thumbnail.jpeg)](https://share.synthesia.io/embeds/videos/42da21fb-4c2f-4a78-a724-dc107b0f920b)
