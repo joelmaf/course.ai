@@ -1,6 +1,10 @@
 # Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário
 
-Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário! Este repositório contém todo o material necessário para acompanhar as aulas, incluindo códigos, datasets, slides e referências adicionais. Ele ficará disponível durante todo o período de estudos. Abaixo está a descrição do conteúdo abordado em cada unidade.
+Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário! Este repositório contém todo o material necessário para acompanhar as aulas, incluindo códigos, datasets, slides e referências adicionais. Ele ficará disponível durante todo o período de estudos.
+
+Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua máquina e uma IDE como VSCode ou Anaconda Navigator. Você também pode usar o ambiente Google Colab (https://colab.research.google.com) para testar e modificar os códigos. Aliás, alguns dos nossos exemplos serão feitos nessa plataforma.
+
+Abaixo está a descrição do conteúdo abordado em cada unidade.
 
 **UNIDADE 1: Inteligência Artificial**
 
