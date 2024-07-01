@@ -38,7 +38,7 @@ Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao J
 #### 4.1.3 GridSearchCV
 #### 4.1.4 Avaliação de métricas
 
-UNIDADE 5: Redes Neurais
+## UNIDADE 5: Redes Neurais
 #### 5.1 Estrutura básica de uma rede neural
 #### 5.2 Arquitetura de redes neurais
 #### 5.2.1 Perceptron
