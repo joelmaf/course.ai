@@ -1,39 +1,64 @@
 # Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário
 
-Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário! Este repositório contém todo o material necessário para acompanhar o curso, incluindo códigos, datasets, slides e referências adicionais. Abaixo está um detalhamento do conteúdo abordado em cada unidade do curso.
+Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário! Este repositório contém todo o material necessário para acompanhar o curso, incluindo códigos, datasets, slides e referências adicionais. Ele ficará disponível no período de vigência do curso. Abaixo está a descrição do conteúdo abordado em cada unidade do curso.
 
 ## UNIDADE 1: Inteligência Artificial
+### 1.1. Fundamentos do Aprendizado de Máquina
+### 1.2. Tipos de Tarefas de Aprendizado
+#### 1.2.1. Supervisionado
+#### 1.2.2. Não supervisionado
+#### 1.2.3. Semi supervisionado
+#### 1.2.4. Aprendizado por reforço
+### 1.3. Modelagem preditiva
 
-### Objetivo
+## UNIDADE 2: Tratamento dos dados
+### 2.1. Análise exploratória de dados (EDA)
+### 2.2. Limpeza de dados
+### 2.3. Transformação de dados
+#### 2.3.1. Divisão dos dados
+#### 2.3.2. Balanceamento
+#### 2.3.3. Escalonamento
+#### 2.3.4. Codificação e criação de features
+#### 2.4. Redução de dimensionalidade
 
-Identificar e discutir a técnica de aprendizado que melhor se adapta às diferentes categorias de problemas.
+## UNIDADE 3:  Regressão Linear
+### 3.1 Previsões simples (Regressão linear)
+### 3.2 Previsões complexas (Regressão linear múltipla)
+### 3.3   Algoritmos de Classificação
+#### 3.3.1 Métodos simbólicos: Árvore de Decisão
+#### 3.3.2 Métodos ensemble: Random Forest
 
-### CONTEÚDOS
+## UNIDADE 4: Otimização e desempenho
+### 4.1 Otimização de hiperparâmetros e regularização
+#### 4.1.1 Técnicas de avaliação de modelos
+##### 4.1.1.1 Overfitting e underfitting
+##### 4.1.1.2 Interpretabilidade dos modelos
+##### 4.1.1.3 Questões éticas e de viés
+#### 4.1.2 Validação cruzada
+#### 4.1.3 GridSearchCV
+#### 4.1.4 Avaliação de métricas
 
-#### 1.1. Fundamentos do Aprendizado de Máquina
+UNIDADE 5: Redes Neurais
+#### 5.1 Estrutura básica de uma rede neural
+#### 5.2 Arquitetura de redes neurais
+#### 5.2.1 Perceptron
+#### 5.2.2 Multilayer Perceptron
+### 5.3 Treinamento de redes neurais
+#### 5.3.1 Algoritmos de retropropagação
+#### 5.3.2 Otimização de pesos
+#### 5.3.3 Função de ativação
+### 5.4 Arquiteturas de Redes Neurais Profundas
 
-Nesta seção, você será introduzido aos conceitos fundamentais do aprendizado de máquina, abordando desde a definição e importância até as aplicações práticas e tipos de algoritmos. Exploraremos os principais paradigmas e discutiremos como o aprendizado de máquina está revolucionando diversas indústrias.
+## UNIDADE 6: Large Language Models 
+### 6.1 Redes Neurais Generativas (GAN)
+### 6.2 Conceitos de Processamento de Linguagem Natural
+### 6.3 Principais modelos LLM
+#### 6.3.1 Open AI
+#### 6.3.2 Llama
 
-#### 1.2. Tipos de Tarefas de Aprendizado
+## UNIDADE 7: Treinando Modelos LLMs
+### 7.1 Retrieval Augmented Generation
+### 7.2 Framework LangChain
+### 7.3 Llama 3
 
-O aprendizado de máquina pode ser categorizado em diferentes tipos de tarefas, cada uma adequada para resolver problemas específicos. Esta seção apresenta uma visão geral dos diferentes tipos de tarefas de aprendizado.
 
-##### 1.2.1. Supervisionado
-
-O aprendizado supervisionado envolve a utilização de dados rotulados para treinar modelos que podem fazer previsões ou classificações. Exemplos incluem regressão linear, árvores de decisão e redes neurais. Discutiremos como escolher algoritmos adequados, preparar dados e avaliar o desempenho do modelo.
-
-##### 1.2.2. Não supervisionado
-
-No aprendizado não supervisionado, os algoritmos trabalham com dados não rotulados para encontrar padrões ou estruturas ocultas. Técnicas como clustering (agrupamento) e análise de componentes principais (PCA) serão exploradas, juntamente com exemplos práticos de aplicação.
-
-##### 1.2.3. Semi supervisionado
-
-A aprendizagem semi supervisionada combina uma pequena quantidade de dados rotulados com uma grande quantidade de dados não rotulados. Esta abordagem é útil quando a rotulagem dos dados é cara ou demorada. Analisaremos algoritmos que se beneficiam deste tipo de aprendizado e seus casos de uso.
-
-##### 1.2.4. Aprendizado por reforço
-
-O aprendizado por reforço se baseia em agentes que aprendem a tomar decisões através da interação com o ambiente, recebendo recompensas ou punições. Exemplos incluem jogos e controle robótico. Discutiremos os conceitos básicos, algoritmos como Q-learning e as aplicações práticas desta técnica.
-
-#### 1.3. Modelagem preditiva
-
-Modelagem preditiva envolve a criação de modelos que podem prever resultados futuros com base em dados históricos. Esta seção abordará as etapas do processo de modelagem preditiva, desde a preparação dos dados até a validação e implementação do modelo. Exploraremos técnicas como regressão, classificação e modelos de séries temporais, fornecendo exemplos práticos e estudos de caso para ilustrar o processo.
