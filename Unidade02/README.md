@@ -107,3 +107,23 @@ $z = \frac{x - \min(x)}{\max(x) - \min(x)}$
 
 ### Redução de dimensionalidade
 A redução de dimensionalidade é o processo de reduzir o número de variáveis (features) em um conjunto de dados, preservando ao máximo a variabilidade e a informação. Técnicas como Análise de Componentes Principais (PCA) e Análise Discriminante Linear (LDA) são utilizadas para simplificar os dados, melhorar a performance dos modelos e reduzir o tempo de processamento.
+
+### Ferramenta de análise de dados
+Algumas bibliotecas permitem a criação de relatórios exploratórios completos para um DataFrame do pandas. O relatório inclui informações sobre distribuição de variáveis, estatísticas descritivas, correlações, valores ausentes, entre outros.
+
+
+<img src="../images/fig04.jpg" />
+
+Fonte: AVI CHAWLA, Daily Dose of Data Science
+
+
+As ferramentas de EDA que automatizam muitas etapas redundantes de EDA e ajudam a perfilar seus dados rapidamente. Essas ferramentas não são as alternativas definitivas de EDA que responderão a todas as suas perguntas sobre o conjunto de dados. Mas, considerando que as etapas preliminares de EDA em quase todos os projetos são as mesmas — plotar a variável de resposta, verificar o desbalanceamento, realizar análise de correlação, análise de valores ausentes e mais, essas ferramentas automatizam muito bem essas etapas.
+
+
+Sweetviz é uma biblioteca de EDA que gera relatórios detalhados e interativos de forma rápida. Existem outras alternativas como: Pandas-profiling, DataPrep, AutoViz, D-Tale, dabl, QuickDA, Lux etc.
+
+
+<img src="../images/fig05.jpg" />
+
+Fonte: AVI CHAWLA, Daily Dose of Data Science
+ 
