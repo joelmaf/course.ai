@@ -68,7 +68,9 @@ O balanceamento de dados é necessário quando há uma distribuição desigual e
     - **Transformações Matemáticas**: Aplicação de transformações como logaritmo, raiz quadrada ou quadrado para criar novas features.
 
 5. **Transformação Logarítmica**:
-    - Aplicada para reduzir a variação em dados altamente dispersos e trazer a distribuição mais próxima de uma distribuição normal.
+    - Aplicada para reduzir a variação em dados altamente dispersos e trazer a distribuição mais próxima de uma distribuição normal. A transformação logarítmica pode comprimir a escala dos dados, facilitando a interpretação de gráficos e análises, bem como pode reduzir essa assimetria, tornando a distribuição mais simétrica e, frequentemente, mais próxima de uma distribuição normal, o que melhora o ajuste do modelo e a precisão das previsões.
+  
+![Logo do Projeto](images/log.png)
 
 6. **Detecção e Tratamento de Outliers**:
     - Aplicar métodos como o desvio interquartil ou z-score para identificar e tratar valores que se afastam significativamente dos demais dados.
