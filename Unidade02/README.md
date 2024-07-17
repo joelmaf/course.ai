@@ -125,6 +125,8 @@ df = pd.DataFrame({'Original': data, 'Log Transformed': np.log1p(data)})
   
 ![](images/log.png)
 
+[Ver exemplo de script](./notebooks/TransformacaoLogaritmica.ipynb)
+
 6. **Detecção e Tratamento de Outliers**:
     - Aplicar métodos como o desvio interquartil ou z-score para identificar e tratar valores que se afastam significativamente dos demais dados.
 
