@@ -198,4 +198,11 @@ Sweetviz é uma biblioteca de EDA que gera relatórios detalhados e interativos 
 <img src="../images/fig05.jpg" />
 
 Fonte: AVI CHAWLA, Daily Dose of Data Science
- 
+
+# Bibliografia para aprofundar
+
+- Sicus, Abraham Laredo, Smartini, André Samartini, Barth, Nelson Lerner. TÉCNICAS DE MACHINE LEARNING, Brucher, 2023 [Link para Amostra](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.blucher.com.br/book/pdf_preview/9786555063967-amostra.pdf)
+
+- Grus, Joel. Data Science do Zero. O´Reilly, 2021.
+  
+ <img src="../images/livro1.png" /><img src="../images/livro2.png" />
