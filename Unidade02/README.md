@@ -31,8 +31,31 @@ A limpeza de dados envolve a identificação e correção de inconsistências, e
     - **Remoção de Linhas/Colunas**: Linhas ou colunas com muitos valores ausentes podem ser removidas.
     - **Imputação**: Valores ausentes podem ser substituídos por valores como a média, mediana, moda ou valores derivados de métodos mais sofisticados, como K-Nearest Neighbors.
 
+```python
+# Tratamento de valores ausentes
+df.fillna(df.mean(), inplace=True)
+
+# Remoção de linhas com muitos valores ausentes
+df.dropna(thresh=len(df.columns) - 2, inplace=True)
+
+# Imputação com média
+df['coluna_interesse'].fillna(df['coluna_interesse'].mean(), inplace=True)
+
+# Imputação com mediana
+df['coluna_interesse'].fillna(df['coluna_interesse'].median(), inplace=True)
+
+# Imputação com moda
+df['coluna_interesse'].fillna(df['coluna_interesse'].mode()[0], inplace=True)
+```
+
+
 2. **Remoção de Duplicatas**:
     - Identificação e remoção de registros duplicados para evitar a contagem redundante de dados.
+
+```python
+# Identificação e remoção de duplicatas
+df.drop_duplicates(inplace=True)
+```
 
 3. **Correção de Valores Anômalos (Outliers)**:
     - **Remoção**: Outliers que são claramente erros podem ser removidos.
@@ -42,11 +65,12 @@ A limpeza de dados envolve a identificação e correção de inconsistências, e
 4. **Correção de Erros de Digitação**:
     - Identificação e correção de valores que foram inseridos incorretamente devido a erros de digitação ou inconsistências de formato.
 
-5. **Normalização e Padronização**:
-    - **Normalização**: Redimensiona os valores para um intervalo fixo, geralmente entre 0 e 1.
-    - **Padronização**: Transforma os dados para que tenham média zero e desvio padrão um.
+```python
+# Correção de valores incorretos
+df['coluna_texto'] = df['coluna_texto'].str.replace('erro', 'correto')
+```
 
-6. **Correção de Inconsistências de Formato**:
+5. **Correção de Inconsistências de Formato**:
     - Uniformização de formatos de datas, unidades de medida e padrões de texto para garantir a consistência dos dados.
 
 #### Transformação de Dados
@@ -56,21 +80,50 @@ A transformação de dados refere-se à modificação dos dados brutos em um for
 1. **Divisão dos dados**:
 A divisão dos dados envolve separar o conjunto de dados em subconjuntos, geralmente em dados de treino e teste. Isso permite avaliar o desempenho dos modelos em dados não vistos durante o treinamento, ajudando a prevenir o overfitting e a garantir a generalização do modelo.
 
-2. **Balanceamento**:
-O balanceamento de dados é necessário quando há uma distribuição desigual entre as classes em problemas de classificação. Técnicas como oversampling, undersampling e geração de novos exemplos sintéticos são usadas para equilibrar a distribuição das classes e melhorar a performance 
+```python
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+```
 
-3. **Codificação de Variáveis Categóricas**:
+3. **Balanceamento**:
+O balanceamento de dados é necessário quando há uma distribuição desigual entre as classes em problemas de classificação. Técnicas como oversampling, undersampling e geração de novos exemplos sintéticos são usadas para equilibrar a distribuição das classes e melhorar a performance
+
+```python
+from imblearn.over_sampling import SMOTE
+smote = SMOTE(random_state=42)
+X_res, y_res = smote.fit_resample(X_train, y_train)
+```
+
+5. **Codificação de Variáveis Categóricas**:
     - **Label Encoding**: Converte categorias em valores numéricos.
     - **One-Hot Encoding**: Cria colunas binárias para cada categoria, indicando a presença ou ausência da categoria.
 
-4. **Criação de Novas Features (Feature Engineering)**:
+```python
+# One-Hot Encoding
+df = pd.get_dummies(df, columns=['coluna_categorica'])
+```
+
+6. **Criação de Novas Features (Feature Engineering)**:
     - **Combinação de Variáveis**: Criar novas variáveis combinando variáveis existentes.
     - **Transformações Matemáticas**: Aplicação de transformações como logaritmo, raiz quadrada ou quadrado para criar novas features.
 
-5. **Transformação Logarítmica**:
+```python
+# Criação de nova feature
+df['nova_feature'] = df['feature1'] * df['feature2']
+```
+
+7. **Transformação Logarítmica**:
     - Aplicada para reduzir a variação em dados altamente dispersos e trazer a distribuição mais próxima de uma distribuição normal. A transformação logarítmica pode comprimir a escala dos dados, facilitando a interpretação de gráficos e análises, bem como pode reduzir essa assimetria, tornando a distribuição mais simétrica e, frequentemente, mais próxima de uma distribuição normal, o que melhora o ajuste do modelo e a precisão das previsões.
+
+```python
+# Gera um dataset skewed
+np.random.seed(42)
+data = np.random.exponential(scale=2, size=1000)  # Exponential distribution is often skewed
+# Aplica a transfomação
+df = pd.DataFrame({'Original': data, 'Log Transformed': np.log1p(data)})
+```
   
-![Logo do Projeto](images/log.png)
+![](images/log.png)
 
 6. **Detecção e Tratamento de Outliers**:
     - Aplicar métodos como o desvio interquartil ou z-score para identificar e tratar valores que se afastam significativamente dos demais dados.
@@ -81,15 +134,18 @@ O balanceamento de dados é necessário quando há uma distribuição desigual e
 8. **Transformações Baseadas em Domínio**:
     - Transformações específicas baseadas no conhecimento do domínio, como transformar vari modelos e fornecer uma base sólida para a tomada de decisões baseada em dados.
 
-9. **Escalonamento de Variáveis**:
-    - **Min-Max Scaling (Normalização)**: Escala os dados para que fiquem entre um intervalo específico.
-    - **Z-Score Scaling (Padronização)**: Escala os dados com base na média e desvio padrão.
-  
-### Normalização e Padronização dos dados
+9. **Redução de dimensionalidade**:
+A redução de dimensionalidade é o processo de reduzir o número de variáveis (features) em um conjunto de dados, preservando ao máximo a variabilidade e a informação. Técnicas como Análise de Componentes Principais (PCA) e Análise Discriminante Linear (LDA) são utilizadas para simplificar os dados, melhorar a performance dos modelos e reduzir o tempo de processamento.
 
-* **Normalização (Min-Max Scaling)**: Utilize quando precisar que seus dados estejam em uma faixa específica, como 0 a 1, mantendo a proporcionalidade entre os valores.
-  
-* **Padronização (Z-score Scaling)**: Use quando for necessário comparar dados com diferentes escalas ou unidades, centralizando os dados em torno de uma média de 0 e um desvio padrão de 1.
+```python
+from sklearn.decomposition import PCA
+pca = PCA(n_components=2)
+X_pca = pca.fit_transform(X_train_scaled)
+```
+
+10. **Escalonamento de Variáveis**:
+    - **Z-Score Scaling (Padronização)**: Escala os dados com base na média e desvio padrão. Use quando for necessário comparar dados com diferentes escalas ou unidades, centralizando os dados em torno de uma média de 0 e um desvio padrão de 1.
+    - **Min-Max Scaling (Normalização)**: Escala os dados para que fiquem entre um intervalo específico.  Utilize quando precisar que seus dados estejam em uma faixa específica, como 0 a 1, mantendo a proporcionalidade entre os valores.
 
 #### Padronização (Z-score Scaling)
 
@@ -99,6 +155,12 @@ A fórmula para padronização é:
 
 $z = \frac{x - \mu}{\sigma}$
 
+```python
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+df['coluna_padronizada'] = scaler.fit_transform(df[['coluna_interesse']])
+```
+
 #### Normalização (Min-Max Scaling)
 
 Normalização é o processo de transformar os dados para que fiquem em uma faixa específica, geralmente entre 0 e 1. Esse método é útil quando você quer manter a proporcionalidade dos dados, ou seja, o relacionamento entre os valores permanece o mesmo.
@@ -107,8 +169,12 @@ A fórmula para normalização é:
 
 $z = \frac{x - \min(x)}{\max(x) - \min(x)}$
 
-### Redução de dimensionalidade
-A redução de dimensionalidade é o processo de reduzir o número de variáveis (features) em um conjunto de dados, preservando ao máximo a variabilidade e a informação. Técnicas como Análise de Componentes Principais (PCA) e Análise Discriminante Linear (LDA) são utilizadas para simplificar os dados, melhorar a performance dos modelos e reduzir o tempo de processamento.
+```python
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler()
+df['coluna_normalizada'] = scaler.fit_transform(df[['coluna_interesse']])
+```
+
 
 ### Ferramenta de análise de dados
 Algumas bibliotecas permitem a criação de relatórios exploratórios completos para um DataFrame do pandas. O relatório inclui informações sobre distribuição de variáveis, estatísticas descritivas, correlações, valores ausentes, entre outros.
