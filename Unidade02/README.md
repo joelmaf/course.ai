@@ -19,6 +19,8 @@
 ## Análise exploratória de dados (EDA)
 A Análise Exploratória de Dados (EDA) é um processo crucial para entender a estrutura, características e padrões dos dados brutos. Utilizando técnicas estatísticas e visualizações gráficas, a EDA ajuda a identificar outliers, tendências, distribuições e possíveis relações entre variáveis. Esse passo inicial é fundamental para guiar futuras etapas de modelagem e análise.
 
+[Ver exemplo de script de limpeza e transformação](./notebooks/ExTransformacaoLimpeza.ipynb)
+
 ### Limpeza e transformação de dados
 
 A limpeza e transformação de dados são passos que garantem a qualidade e a usabilidade dos dados para análises e modelagens subsequentes. Essas etapas ajudam a eliminar ruídos, melhorar a precisão dos modelos.
@@ -125,7 +127,7 @@ df = pd.DataFrame({'Original': data, 'Log Transformed': np.log1p(data)})
   
 ![](images/log.png)
 
-[Ver exemplo de script](./notebooks/TransformacaoLogaritmica.ipynb)
+[Ver exemplo de script de transformação logarítimica](./notebooks/ExTransformacaoLogaritmica.ipynb)
 
 6. **Detecção e Tratamento de Outliers**:
     - Aplicar métodos como o desvio interquartil ou z-score para identificar e tratar valores que se afastam significativamente dos demais dados.
