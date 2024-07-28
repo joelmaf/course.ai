@@ -17,9 +17,14 @@
 2.4. Redução de dimensionalidade
 
 # Preparação para a aula:
-É importante que o ambiente esteja preparado antes da aula: 
+É importante que o ambiente esteja preparado antes da aula. No ambiente Colab apenas execute os notebooks instalando antes os pacotes:
 
-**Se entiver usando o Jupyter Notebook (Ambiente Anaconda Navigator Windows/Linux)**: instale os pacotes.    
+```
+!pip install ydata-profiling
+!pip install sweetviz
+```
+
+**Se entiver usando o Jupyter Notebook (Ambiente Anaconda Navigator Windows/Linux)**: talvez tenha que instalar os pacotes.    
 ```
 !pip install ydata-profiling
 !pip install sweetviz
@@ -27,7 +32,7 @@
 !pip install plotly
 ```
 
-Tente importar as bibliotecas
+Tente importar as bibliotecas:
 
 ```
 import pandas as pd
@@ -50,9 +55,9 @@ import sweetviz as sv
 from ydata_profiling import ProfileReport
 ```
 
-Caso tenha problema de dependências ao importar ydata-profiling. Force a atualização dos pacotes.
+Caso tenha problemas de dependências ao importar ydata-profiling, force a atualização dos pacotes.
 
-Vá ai ao terminal do Anaconda Navigator: Enviroments>selecionar o enviroment que estiver executando>>OpenTerminal e digitar os comandos:
+Vá ao ao terminal do Anaconda Navigator: Enviroments>selecionar o enviroment que estiver executando>>OpenTerminal e digitar os comandos:
 
 
 ![](images/anaconda.png)
