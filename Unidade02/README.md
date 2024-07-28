@@ -249,7 +249,7 @@ As ferramentas de EDA que automatizam muitas etapas redundantes de EDA e ajudam 
 Sweetviz é uma biblioteca de EDA que gera relatórios detalhados e interativos de forma rápida. Existem outras alternativas como: Pandas-profiling, DataPrep, AutoViz, D-Tale, dabl, QuickDA, Lux etc.
 
 
-<img src="../images/fig05.jpg" />
+<img src="../images/fig05.jpg" width=700 height=500 />
 
 Fonte: AVI CHAWLA, Daily Dose of Data Science
 
@@ -259,4 +259,4 @@ Fonte: AVI CHAWLA, Daily Dose of Data Science
 
 - Grus, Joel. Data Science do Zero. O´Reilly, 2021.
   
- <img src="../images/livro1.png" /><img src="../images/livro2.png" />
+ <img src="images/livro1.png" width=100 height=150/><img src="images/livro2.png" width=100 height=150/>
