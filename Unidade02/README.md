@@ -16,6 +16,53 @@
 
 2.4. Redução de dimensionalidade
 
+# Preparação para a aula:
+É importante que o ambiente esteja preparado antes da aula: 
+
+**Se entiver usando o Jupyter Notebook (Ambiente Anaconda Navigator Windows/Linux)**: instale os pacotes.    
+```
+!pip install ydata-profiling
+!pip install sweetviz
+!pip install joblib
+!pip install plotly
+```
+
+Tente importar as bibliotecas
+
+```
+import pandas as pd
+import numpy as np
+from sklearn import preprocessing
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import StandardScaler
+from sklearn.impute import SimpleImputer
+import joblib
+from tqdm import tqdm
+tqdm.pandas()
+import seaborn as sns
+import matplotlib.cm as cm
+import matplotlib.pyplot as plt
+import plotly.express as px
+import plotly.graph_objects as go
+import plotly.figure_factory as ff
+from plotly.subplots import make_subplots
+import sweetviz as sv
+from ydata_profiling import ProfileReport
+```
+
+Caso tenha problema de dependências ao importar ydata-profiling. Force a atualização dos pacotes.
+
+Vá ai ao terminal do Anaconda Navigator: Enviroments>selecionar o enviroment que estiver executando>>OpenTerminal e digitar os comandos:
+![](images/anaconda.png)
+
+
+```
+pip uninstall numba visions ydata_profiling joblib 
+conda update conda
+conda update charset-normalizer jsonpatch packaging
+conda install -c conda-forge ydata-profiling
+```
+
 ## Análise exploratória de dados (EDA)
 A Análise Exploratória de Dados (EDA) é um processo crucial para entender a estrutura, características e padrões dos dados brutos. Utilizando técnicas estatísticas e visualizações gráficas, a EDA ajuda a identificar outliers, tendências, distribuições e possíveis relações entre variáveis. Esse passo inicial é fundamental para guiar futuras etapas de modelagem e análise.
 
