@@ -53,6 +53,8 @@ from ydata_profiling import ProfileReport
 Caso tenha problema de dependências ao importar ydata-profiling. Force a atualização dos pacotes.
 
 Vá ai ao terminal do Anaconda Navigator: Enviroments>selecionar o enviroment que estiver executando>>OpenTerminal e digitar os comandos:
+
+
 ![](images/anaconda.png)
 
 
