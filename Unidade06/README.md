@@ -65,7 +65,34 @@ Para poder usar a API Key no Google Colab:
   
 https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
 
+# Para o projeto de Fine-tuning
+
+### Passo 1: Crie sua conta e Access Tokens no Hugging Face 
+
+https://huggingface.co/
+
+![](../images/HF.png)
+
+![](../images/HF2.png)
+
+Para usar usar a API do HugginFace e baixar o Llama3 para fazer ajuste fino você precisará de um **Acess Token**.
+
+*   Visite o site do Hugging Face https://huggingface.co/ e crie uma conta.
+*   Faça Login na sua conta e navegue até a Settings>>Access Tokens e gere uma Crie um Novo Token
 ### Passo 5: No seu Drive do Google crie a pasta LlamaModels
 
 Vamos precisar que os arquivos e modelo sejam armazenados nessa pasta. É necessário ter espaço no Drive para isso
 
+Para poder usar a **Acess Token no Google Colab**:
+
+*   Abra o Google Colab e vá para Secrets.
+*   Digite o Nome e o Valor do segredo. Embora o Valor possa ser alterado, o Nome não pode ser alterado. Neste código o Nome é **HF_TOKEN**, mas você pode alterar
+*   Ative o acesso ao Notebook.
+*   Finalmente, para usá-lo no notebook, use o código fornecido com o nome do seu segredo no lugar de "\<secretName\>"
+
+Escolha o modelo que quer fazer ajuste fino, no nosso caso será o meta-llama/Meta-Llama-3-8B. Vá até a página do Hugging Face para assinar termo de acesso e uso do modelo. Não baixe o modelo de HF sem esse acesso garantido
+
+https://huggingface.co/meta-llama/Meta-Llama-3-8B
+
+  ![](../images/HF3.png)
+  
