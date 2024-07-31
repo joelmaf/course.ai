@@ -28,7 +28,7 @@ Vá ao site Ollama https://ollama.com/ e faça download conforme o seu ambiente.
 
 Ollama é uma plataforma ou biblioteca que oferece serviços de processamento de linguagem natural, especificamente modelos de linguagem grandes (LLMs) como o modelo "llama3". 
 
-![](images/ollama.png)
+![](../images/ollama.png)
 
 ### Passo 2:
 
@@ -38,7 +38,7 @@ ollama run llama3
 
 Para sair /bye
 
-![](images/ollama2.png)
+![](../images/ollama2.png)
 
 # Caso escolha trabalhar GOOGLE COLAB no projeto Grog+Llama
 
@@ -60,6 +60,8 @@ Para poder usar a API Key no Google Colab:
 *   Digite o Nome e o Valor do segredo. Embora o Valor possa ser alterado, o Nome não pode ser alterado. Neste código o Nome é GROQ, mas você pode alterar
 *   Ative o acesso ao Notebook.
 *   Finalmente, para usá-lo no notebook, use o código fornecido com o nome do seu segredo no lugar de "\<secretName\>"
+
+  ![](../images/secret.png)
   
 https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
 
