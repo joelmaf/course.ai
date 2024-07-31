@@ -8,6 +8,11 @@ Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua 
 
 ![](images/anaconda.png)
 
+
+Crie pelo menos dois **Environments** um com o Python 3.12 e outro com o Python 3.11. Na figura eu criei o **Environments autoML** com o Python 3.11 pois algumas dependências do Pycaret não executarão em uma versão superior.
+
+![](images/anaconda2.png)
+
 É muito importate que antes de cada aula o seu ambiente esteja configurado e os pacotes instalados, para que consiga executar os exemplos em tempo real. Caso não queira instalar/configurar em sua máquina utilize o Google Colab. Nos arquivos Jupyter Notebook de cada Unidade você encontra o que é necessário instalar e configufar para executar o código
 
 Apenas como uma provocação, este é um vídeo que fiz (sem muitos cuidados estéticos ou zelo) usando as plataformas da Synthesia e OpenAI para testar como a IA poderia me ajudar no trabalho. A definição do conteúdo a ser abordado, os slides, as imagens, o roteiro, o avatar e a voz foram todos criados com a ajuda da Inteligência Artificial.
