@@ -65,6 +65,10 @@ Para poder usar a API Key no Google Colab:
   
 https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
 
+### Passo 5: No seu Drive do Google crie a pasta LlamaModels
+
+Vamos precisar que os arquivos e modelo sejam armazenados nessa pasta. É necessário ter espaço no Drive para isso
+
 # Para o projeto de Fine-tuning
 
 ### Passo 1: Crie sua conta e Access Tokens no Hugging Face 
@@ -79,9 +83,6 @@ Para usar usar a API do HugginFace e baixar o Llama3 para fazer ajuste fino voc�
 
 *   Visite o site do Hugging Face https://huggingface.co/ e crie uma conta.
 *   Faça Login na sua conta e navegue até a Settings>>Access Tokens e gere uma Crie um Novo Token
-### Passo 2: No seu Drive do Google crie a pasta LlamaModels
-
-Vamos precisar que os arquivos e modelo sejam armazenados nessa pasta. É necessário ter espaço no Drive para isso
 
 Para poder usar a **Acess Token no Google Colab**:
 
