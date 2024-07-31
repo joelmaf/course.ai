@@ -2,26 +2,32 @@
 
 Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao Judiciário! Este repositório contém todo o material necessário para acompanhar as aulas, incluindo códigos, datasets, slides e referências adicionais. Ele ficará disponível durante todo o período de estudos.
 
-O objetivo desse curso não é explorar a imensa variedade de algoritmos, frameworks e técnicas de Análise de Dados e Aprendizado de Máquina, mas sim apresentar o processo de construção de aplicações de Inteligência Artificial (IA) que sirva como um referencial para desenvolver uma solução que se adapte melhor ao problema a ser resolvido.
+O objetivo deste curso não é explorar a imensa variedade de algoritmos, frameworks e técnicas de Análise de Dados e Aprendizado de Máquina, mas sim apresentar o processo de construção de aplicações de Inteligência Artificial (IA) que sirvam como um referencial para desenvolver uma solução que se adapte melhor ao problema a ser resolvido.
 
-Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua máquina e uma IDE como VSCode ou Anaconda Navigator. Você também pode usar o ambiente Google Colab (https://colab.research.google.com) para testar e modificar os códigos. Aliás, alguns dos nossos exemplos serão feitos especificamente para essa plataforma. No entanto, vamos usar muito o Anaconda Navigator nos exemplos de aula, caso queira simular de forma igual, aconselho criar diferentes **Environments** no Anaconda (Environments >> Create) para cada Unidade, pois os pacotes por vezes são conflitantes.
+Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua máquina e uma IDE como VSCode ou Anaconda Navigator. Você também pode usar o ambiente Google Colab (https://colab.research.google.com) para testar e modificar os códigos. Aliás, alguns dos nossos exemplos serão feitos especificamente para essa plataforma. No entanto, vamos usar muito o Anaconda Navigator nos exemplos de aula. Caso queira simular de forma igual, aconselho criar diferentes **Environments** no Anaconda (Environments >> Create) para cada unidade, pois os pacotes por vezes são conflitantes.
 
 ![](images/anaconda.png)
 
-
-Crie pelo menos dois **Environments** um com o Python 3.12 e outro com o Python 3.11. Na figura eu criei o **Environments autoML** com o Python 3.11 pois algumas dependências do Pycaret não executarão em uma versão superior.
+Crie pelo menos dois **Environments**: um com o Python 3.12 e outro com o Python 3.11. Na figura, eu criei o **Environment autoML** com o Python 3.11, pois algumas dependências do Pycaret não executarão em uma versão superior.
 
 ![](images/anaconda2.png)
 
-É muito importate que antes de cada aula o seu ambiente esteja configurado e os pacotes instalados, para que consiga executar os exemplos em tempo real. Caso não queira instalar/configurar em sua máquina utilize o Google Colab. Nos arquivos Jupyter Notebook de cada Unidade você encontra o que é necessário instalar e configufar para executar o código
+Depois de criar o ambiente, selecione-o e em **Home** escolha **Jupyter Notebook**. Talvez seja necessário instalá-lo antes. Ele vai abrir no navegador. Basta agora, na opção **New**, criar o **Notebook**, mas no nosso caso, como os códigos já estão prontos, escolha a pasta onde os colocou e abra o Notebook (arquivo .ipynb) que deseja executar.
+
+![](images/jupyter.png)
+
+Nos arquivos Jupyter Notebook de cada unidade, você encontra o que é necessário instalar e configurar para executar o código. Cada Notebook terá instruções sobre pacotes que precisarão ser instalados antes; basta executar a célula. Algo parecido com `!pip install pandas`.
+
+É muito importante que antes de cada aula o seu ambiente esteja configurado e os pacotes instalados, para que consiga executar os exemplos em tempo real. Alguns pacotes demoram para ser instalados.
+
+Caso não queira instalar/configurar esse ambiente em sua máquina, utilize o Google Colab. Apenas faça upload dos arquivos e pastas para o Colab. É possível linkar o Colab com o GitHub.
 
 Apenas como uma provocação, este é um vídeo que fiz (sem muitos cuidados estéticos ou zelo) usando as plataformas da Synthesia e OpenAI para testar como a IA poderia me ajudar no trabalho. A definição do conteúdo a ser abordado, os slides, as imagens, o roteiro, o avatar e a voz foram todos criados com a ajuda da Inteligência Artificial.
 
-
 [![Profissões da Ciência de Dados](images/thumbnail.jpeg)](https://share.synthesia.io/embeds/videos/42da21fb-4c2f-4a78-a724-dc107b0f920b)
 
-
 Abaixo está a descrição do conteúdo abordado em cada unidade.
+
 
 **UNIDADE 1: Inteligência Artificial**
 
