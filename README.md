@@ -4,7 +4,11 @@ Bem-vindo ao curso de Análise de Dados e Aprendizado de Máquina Aplicados ao J
 
 O objetivo desse curso não é explorar a imensa variedade de algoritmos, frameworks e técnicas de Análise de Dados e Aprendizado de Máquina, mas sim apresentar o processo de construção de aplicações de Inteligência Artificial (IA) que sirva como um referencial para desenvolver uma solução que se adapte melhor ao problema a ser resolvido.
 
-Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua máquina e uma IDE como VSCode ou Anaconda Navigator. Você também pode usar o ambiente Google Colab (https://colab.research.google.com) para testar e modificar os códigos. Aliás, alguns dos nossos exemplos serão feitos nessa plataforma.
+Para acompanhar o curso, é necessário ter a linguagem Python instalada na sua máquina e uma IDE como VSCode ou Anaconda Navigator. Você também pode usar o ambiente Google Colab (https://colab.research.google.com) para testar e modificar os códigos. Aliás, alguns dos nossos exemplos serão feitos especificamente para essa plataforma. No entanto, vamos usar muito o Anaconda Navigator nos exemplos de aula, caso queira simular de forma igual, aconselho criar diferentes **Environments** no Anaconda (Environments >> Create) para cada Unidade, pois os pacotes por vezes são conflitantes.
+
+![](images/anaconda.png)
+
+É muito importate que antes de cada aula o seu ambiente esteja configurado e os pacotes instalados, para que consiga executar os exemplos em tempo real. Caso não queira instalar/configurar em sua máquina utilize o Google Colab. Nos arquivos Jupyter Notebook de cada Unidade você encontra o que é necessário instalar e configufar para executar o código
 
 Apenas como uma provocação, este é um vídeo que fiz (sem muitos cuidados estéticos ou zelo) usando as plataformas da Synthesia e OpenAI para testar como a IA poderia me ajudar no trabalho. A definição do conteúdo a ser abordado, os slides, as imagens, o roteiro, o avatar e a voz foram todos criados com a ajuda da Inteligência Artificial.
 
