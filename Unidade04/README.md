@@ -44,13 +44,6 @@ Otimização de Hiperparâmetros é o processo de encontrar a **melhor combinaç
 * **Bayesian Optimization**: Utiliza métodos probabilísticos para explorar o espaço de hiperparâmetros de forma mais eficiente.
 * **Genetic Algorithms**: Utiliza princípios de evolução natural para encontrar a melhor combinação de hiperparâmetros.
 
-### Métodos de Otimização:
-
-* **Grid Search**: Explora exaustivamente uma grade de combinações de hiperparâmetros.
-* **Random Search**: Seleciona combinações aleatórias de hiperparâmetros.
-* **Bayesian Optimization**: Utiliza métodos probabilísticos para explorar o espaço de hiperparâmetros de forma mais eficiente.
-* **Genetic Algorithms**: Utiliza princípios de evolução natural para encontrar a melhor combinação de hiperparâmetros.
-
 ```
 # Definir hiperparâmetros a serem otimizados
 param_grid = {
