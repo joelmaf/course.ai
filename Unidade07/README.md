@@ -34,19 +34,19 @@ https://www.tjdft.jus.br/informacoes/cidadania/justica-comunitaria/publicacoes/a
 
 Crie uma conta na Nvidia. Vá ao site da Nvidia https://build.nvidia.com/explore/discover e crie uma conta
 
-![](../images/fig32.png)
+![](images/fig32.png)
 
 ### Passo 2:
 
 Escolha o modelo que quer usar. No curso usaremos o **meta/llama-3.1-405b-instruct**
 
-![](../images/fig34.png)
+![](images/fig34.png)
 
 ### Passo 3:
 
 **Gere API Key** e coloque no **Secrets** do Google Colab.
 
-![](../images/fig33.png)
+![](images/fig33.png)
 
 Caso esteja executando no Google Colab configure a  **API Key**
 
