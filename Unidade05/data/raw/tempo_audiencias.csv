@@ -1,0 +1,1001 @@
+rito,tempo_servico,salario,profissao,cargo,objeto_processo,quantidade_depoimento,acordo,pericia,recurso_ordinario,recurso_revista,audiencias,duracao_processo,tempo_audiencia
+trabalhista,145,1019.56,indústria,execução,multa do Art. 467,2,presença,N,S,N,15,3,228
+sumaríssimo,201,4019.83,comércio,execução,multa do Art. 477,5,presença,S,N,S,12,8,101
+trabalhista,212,9902.25,serviço,direção,fundo de garantia por tempo de serviço,6,presença,S,S,S,16,25,41
+trabalhista,220,18941.77,indústria,execução,fundo de garantia por tempo de serviço,4,ausência,S,S,S,19,18,94
+trabalhista,240,2941.68,serviço,execução,horas extras e reflexos,3,ausência,N,S,S,8,43,256
+sumaríssimo,46,17229.99,serviço,direção,indenização por danos morais,7,presença,S,N,S,17,1,71
+trabalhista,35,11013.46,indústria,execução,multa do Art. 477,2,presença,S,S,N,5,17,273
+trabalhista,253,16692.49,serviço,execução,vale transporte,6,ausência,N,S,S,16,30,168
+trabalhista,82,6669.11,comércio,direção,multa do Art. 467,4,ausência,S,S,N,6,13,132
+sumaríssimo,256,16959.0,comércio,direção,multa do Art. 477,6,ausência,N,N,N,8,17,124
+trabalhista,197,15683.63,serviço,execução,adicional noturno,4,ausência,N,S,S,18,47,46
+trabalhista,303,5371.02,indústria,direção,falta de registro em carteira,4,ausência,N,S,S,12,20,114
+trabalhista,10,3495.37,serviço,execução,adicional noturno,4,presença,S,S,N,15,4,85
+trabalhista,312,17493.03,comércio,direção,indenização por danos morais,9,ausência,N,S,S,9,45,163
+sumaríssimo,286,19301.5,serviço,execução,falta de registro em carteira,7,ausência,N,N,S,13,14,115
+trabalhista,242,1594.74,serviço,direção,multa do Art. 467,3,ausência,N,S,N,15,14,251
+sumaríssimo,251,14894.13,comércio,execução,horas extras e reflexos,3,presença,N,N,N,10,15,135
+sumaríssimo,5,18280.97,serviço,execução,horas extras e reflexos,6,presença,S,N,S,16,4,144
+sumaríssimo,119,17289.84,serviço,execução,plano de saúde,6,presença,N,N,N,7,13,168
+trabalhista,289,19325.89,indústria,direção,multa do Art. 467,4,presença,S,S,S,17,48,117
+sumaríssimo,65,15441.79,indústria,direção,verbas recisórias,9,presença,N,N,S,7,12,78
+trabalhista,146,9403.68,comércio,execução,multa do Art. 467,4,presença,S,S,S,14,28,178
+sumaríssimo,224,6927.09,comércio,execução,adicional noturno,9,ausência,N,N,N,15,2,144
+sumaríssimo,239,7094.11,comércio,direção,indenização por danos morais,4,presença,S,N,N,7,2,92
+sumaríssimo,177,14764.03,indústria,direção,diferença salarial,2,presença,N,N,N,9,11,262
+sumaríssimo,267,15170.9,comércio,direção,horas extras e reflexos,2,ausência,S,N,N,19,9,218
+sumaríssimo,341,4806.82,comércio,direção,seguro desemprego,5,presença,S,N,N,16,12,132
+sumaríssimo,282,17494.33,comércio,direção,indenização por danos morais,4,ausência,S,N,S,8,17,46
+sumaríssimo,63,14583.56,indústria,direção,adicional de insalubridade,7,ausência,N,N,S,18,15,35
+sumaríssimo,217,11692.26,serviço,execução,indenização por danos morais,5,presença,S,N,S,18,17,176
+trabalhista,342,9959.12,comércio,direção,indenização por danos morais,6,ausência,S,S,S,20,53,57
+trabalhista,315,11321.42,serviço,execução,plano de saúde,10,ausência,S,S,N,7,17,67
+sumaríssimo,283,4025.67,comércio,direção,fundo de garantia por tempo de serviço,4,ausência,S,N,S,3,8,148
+sumaríssimo,177,4870.32,serviço,direção,indenização por danos morais,2,ausência,N,N,N,18,9,240
+sumaríssimo,98,2732.13,indústria,execução,plano de saúde,10,presença,S,N,S,10,6,144
+trabalhista,105,3919.5,indústria,execução,horas extras e reflexos,9,ausência,S,S,N,7,5,97
+sumaríssimo,99,9620.18,comércio,direção,diferença salarial,10,presença,S,N,N,17,12,72
+trabalhista,311,11076.73,serviço,execução,diferença salarial,7,ausência,N,S,S,14,30,87
+trabalhista,6,1339.38,indústria,execução,indenização por danos morais,4,ausência,S,S,S,3,42,42
+trabalhista,197,16139.16,comércio,execução,adicional de insalubridade,3,ausência,S,S,S,12,31,171
+trabalhista,351,6589.19,comércio,execução,falta de registro em carteira,10,presença,S,S,S,13,26,87
+trabalhista,133,18324.88,indústria,direção,horas extras e reflexos,3,presença,S,S,N,2,2,188
+sumaríssimo,358,19382.71,indústria,execução,plano de saúde,9,presença,N,N,S,3,12,134
+sumaríssimo,259,4523.72,comércio,direção,horas extras e reflexos,5,ausência,S,N,S,5,4,112
+sumaríssimo,23,9779.85,serviço,direção,adicional de insalubridade,3,ausência,S,N,N,11,4,124
+sumaríssimo,53,1023.4,serviço,direção,multa do Art. 477,5,ausência,N,N,S,8,15,133
+sumaríssimo,165,12368.22,serviço,direção,adicional noturno,2,ausência,N,N,S,12,13,139
+trabalhista,202,12538.82,comércio,execução,adicional de insalubridade,4,presença,N,S,S,7,58,158
+sumaríssimo,83,5703.26,indústria,execução,plano de saúde,10,ausência,S,N,S,15,6,77
+sumaríssimo,145,11609.84,comércio,direção,adicional de insalubridade,2,presença,N,N,S,17,16,198
+trabalhista,85,5285.26,indústria,direção,plano de saúde,2,ausência,S,S,N,4,12,265
+sumaríssimo,78,4055.68,serviço,direção,vale transporte,8,presença,N,N,S,13,5,143
+trabalhista,1,13378.87,serviço,direção,verbas recisórias,1,presença,S,S,S,18,34,230
+sumaríssimo,51,7192.58,indústria,execução,plano de saúde,7,ausência,N,N,S,1,1,166
+trabalhista,173,12215.01,indústria,direção,adicional de insalubridade,5,ausência,S,S,S,16,43,140
+sumaríssimo,205,9231.69,comércio,execução,verbas recisórias,8,presença,N,N,S,13,15,173
+sumaríssimo,260,19702.68,serviço,direção,plano de saúde,1,ausência,S,N,N,10,11,121
+trabalhista,288,3842.03,comércio,direção,plano de saúde,7,ausência,S,S,S,12,30,60
+trabalhista,34,9827.37,comércio,direção,falta de registro em carteira,5,presença,S,S,N,2,5,148
+trabalhista,348,13928.68,comércio,direção,verbas recisórias,4,presença,S,S,N,3,1,171
+trabalhista,95,8515.36,serviço,execução,multa do Art. 477,7,presença,S,S,S,10,59,54
+trabalhista,72,19519.3,comércio,execução,adicional de insalubridade,10,presença,S,S,S,2,59,63
+trabalhista,39,14715.86,comércio,execução,adicional de insalubridade,2,ausência,S,S,S,13,49,212
+trabalhista,154,13482.69,comércio,direção,multa do Art. 467,1,presença,S,S,S,13,51,132
+trabalhista,250,15384.13,comércio,direção,verbas recisórias,1,presença,N,S,N,18,15,123
+sumaríssimo,162,19100.32,comércio,execução,horas extras e reflexos,1,presença,S,N,S,3,9,289
+sumaríssimo,118,18248.55,comércio,execução,adicional de insalubridade,5,ausência,S,N,S,7,12,177
+trabalhista,259,14761.42,serviço,direção,adicional noturno,10,presença,N,S,S,14,48,133
+sumaríssimo,306,15234.07,comércio,direção,multa do Art. 467,7,ausência,S,N,S,20,10,39
+sumaríssimo,268,3772.52,indústria,execução,verbas recisórias,2,presença,N,N,S,17,17,228
+sumaríssimo,54,2953.06,comércio,direção,horas extras e reflexos,10,presença,S,N,S,12,5,34
+sumaríssimo,236,11847.19,comércio,direção,horas extras e reflexos,8,ausência,N,N,N,16,16,56
+trabalhista,222,1348.99,serviço,execução,indenização por danos morais,4,presença,N,S,N,12,7,142
+sumaríssimo,251,10164.77,serviço,direção,diferença salarial,3,presença,S,N,S,15,9,193
+trabalhista,313,4996.64,indústria,execução,falta de registro em carteira,10,ausência,N,S,S,10,50,134
+sumaríssimo,112,7574.31,indústria,direção,multa do Art. 477,8,presença,S,N,S,7,15,73
+sumaríssimo,255,15740.29,serviço,execução,fundo de garantia por tempo de serviço,2,presença,S,N,N,20,16,214
+sumaríssimo,303,18883.51,serviço,direção,adicional de insalubridade,3,presença,S,N,S,5,14,224
+trabalhista,207,2375.91,comércio,execução,vale transporte,3,presença,S,S,N,1,3,127
+sumaríssimo,229,11150.6,serviço,execução,verbas recisórias,10,ausência,N,N,S,17,12,169
+trabalhista,341,17768.14,indústria,execução,verbas recisórias,1,presença,S,S,S,3,27,186
+sumaríssimo,66,2567.66,comércio,execução,multa do Art. 467,6,ausência,N,N,S,13,7,116
+trabalhista,75,16665.77,indústria,direção,multa do Art. 467,2,presença,N,S,S,14,34,229
+sumaríssimo,103,7798.23,comércio,direção,plano de saúde,1,ausência,S,N,N,18,13,128
+trabalhista,192,7119.8,serviço,execução,vale transporte,2,presença,S,S,N,4,5,236
+trabalhista,252,19571.86,indústria,direção,verbas recisórias,6,ausência,S,S,S,18,50,95
+sumaríssimo,226,4816.32,comércio,direção,seguro desemprego,4,presença,S,N,S,5,4,160
+trabalhista,294,14170.68,comércio,direção,multa do Art. 477,6,ausência,N,S,N,16,2,151
+sumaríssimo,306,16607.37,serviço,direção,plano de saúde,9,ausência,S,N,N,1,16,178
+sumaríssimo,98,1782.49,serviço,direção,plano de saúde,10,presença,N,N,N,14,9,113
+sumaríssimo,338,13737.32,serviço,execução,verbas recisórias,10,ausência,S,N,N,15,9,145
+sumaríssimo,286,19079.45,indústria,execução,adicional de insalubridade,8,presença,S,N,S,9,6,145
+sumaríssimo,335,3360.18,comércio,execução,diferença salarial,1,presença,S,N,N,15,11,130
+sumaríssimo,347,18028.2,serviço,execução,vale transporte,8,presença,S,N,S,17,1,172
+sumaríssimo,308,12300.76,indústria,direção,plano de saúde,9,presença,N,N,N,4,4,139
+sumaríssimo,249,12715.49,indústria,direção,adicional de insalubridade,6,presença,N,N,N,12,13,75
+sumaríssimo,166,12645.94,indústria,execução,seguro desemprego,10,ausência,S,N,N,5,13,54
+sumaríssimo,335,6677.88,serviço,direção,multa do Art. 477,5,presença,N,N,N,5,13,50
+sumaríssimo,30,18768.83,serviço,direção,verbas recisórias,6,presença,N,N,N,11,2,150
+trabalhista,247,18999.66,comércio,execução,fundo de garantia por tempo de serviço,6,presença,S,S,S,6,35,151
+trabalhista,106,12880.79,comércio,direção,indenização por danos morais,9,presença,S,S,S,7,52,162
+sumaríssimo,51,15885.03,serviço,execução,adicional de insalubridade,4,presença,N,N,N,14,7,99
+sumaríssimo,81,12632.9,indústria,execução,diferença salarial,2,presença,N,N,N,11,4,218
+sumaríssimo,133,10203.57,indústria,direção,fundo de garantia por tempo de serviço,9,ausência,N,N,S,13,3,136
+sumaríssimo,285,13555.58,indústria,direção,adicional noturno,2,ausência,N,N,N,2,6,161
+sumaríssimo,138,11507.03,comércio,execução,multa do Art. 467,10,presença,S,N,N,7,12,137
+sumaríssimo,184,12352.04,indústria,execução,adicional de insalubridade,9,ausência,S,N,S,20,12,76
+sumaríssimo,330,15892.82,comércio,direção,multa do Art. 467,2,presença,N,N,N,4,8,260
+sumaríssimo,273,10137.17,comércio,execução,verbas recisórias,8,presença,S,N,N,8,1,47
+trabalhista,340,1774.33,indústria,execução,multa do Art. 467,9,presença,N,S,S,20,49,178
+sumaríssimo,69,4115.99,indústria,execução,adicional noturno,10,presença,N,N,S,19,11,133
+trabalhista,34,9333.54,serviço,direção,diferença salarial,9,presença,S,S,S,13,49,69
+sumaríssimo,262,14771.7,serviço,execução,multa do Art. 477,10,ausência,N,N,N,14,13,167
+sumaríssimo,53,12272.29,indústria,direção,horas extras e reflexos,9,ausência,N,N,S,10,17,118
+trabalhista,205,13355.59,comércio,execução,falta de registro em carteira,2,ausência,S,S,S,11,23,283
+sumaríssimo,126,10106.3,comércio,direção,vale transporte,4,ausência,S,N,S,2,12,34
+trabalhista,235,12699.1,comércio,execução,multa do Art. 477,7,presença,N,S,S,9,30,151
+sumaríssimo,43,7251.33,comércio,direção,horas extras e reflexos,2,ausência,N,N,S,17,10,239
+sumaríssimo,240,9933.47,comércio,direção,seguro desemprego,1,presença,S,N,S,3,14,260
+trabalhista,111,15141.3,serviço,direção,adicional de insalubridade,3,ausência,N,S,N,6,13,131
+sumaríssimo,249,17564.82,indústria,execução,adicional de insalubridade,4,ausência,N,N,N,5,5,131
+trabalhista,151,9239.45,serviço,execução,plano de saúde,8,ausência,S,S,S,5,40,122
+sumaríssimo,183,1829.57,comércio,execução,diferença salarial,6,ausência,S,N,S,15,2,102
+trabalhista,336,4071.78,comércio,direção,adicional de insalubridade,2,presença,S,S,S,17,56,156
+trabalhista,95,1396.36,comércio,execução,fundo de garantia por tempo de serviço,9,ausência,S,S,N,9,4,31
+sumaríssimo,8,13412.0,comércio,direção,horas extras e reflexos,2,ausência,S,N,N,3,14,193
+sumaríssimo,360,7313.98,indústria,execução,diferença salarial,5,presença,S,N,N,20,10,80
+trabalhista,184,11307.09,comércio,direção,indenização por danos morais,4,presença,N,S,N,17,3,59
+sumaríssimo,281,10372.26,indústria,direção,fundo de garantia por tempo de serviço,7,ausência,N,N,N,10,3,40
+sumaríssimo,195,2549.0,comércio,direção,adicional de insalubridade,8,presença,S,N,N,3,15,137
+sumaríssimo,352,8661.97,indústria,execução,multa do Art. 467,5,presença,S,N,N,18,6,105
+trabalhista,195,5190.66,serviço,execução,adicional noturno,10,presença,N,S,N,18,17,119
+trabalhista,155,8949.6,comércio,execução,multa do Art. 467,5,ausência,N,S,N,17,12,152
+trabalhista,93,4867.99,indústria,direção,fundo de garantia por tempo de serviço,2,presença,N,S,S,3,49,192
+trabalhista,160,16968.6,serviço,direção,seguro desemprego,8,ausência,S,S,S,3,30,151
+trabalhista,61,4309.67,comércio,execução,adicional de insalubridade,2,ausência,S,S,S,6,57,171
+trabalhista,122,19254.83,comércio,execução,seguro desemprego,10,ausência,N,S,S,13,26,132
+trabalhista,51,8902.24,comércio,execução,seguro desemprego,6,ausência,S,S,N,15,16,60
+trabalhista,277,17078.66,indústria,direção,horas extras e reflexos,8,presença,S,S,N,9,15,81
+trabalhista,5,12946.53,indústria,direção,vale transporte,6,ausência,S,S,S,4,28,118
+sumaríssimo,92,14971.66,serviço,direção,horas extras e reflexos,4,presença,N,N,N,14,8,105
+trabalhista,170,15586.75,indústria,direção,verbas recisórias,4,ausência,N,S,S,5,48,158
+sumaríssimo,317,10592.05,indústria,direção,falta de registro em carteira,6,presença,S,N,N,2,10,51
+sumaríssimo,22,11322.71,comércio,execução,fundo de garantia por tempo de serviço,4,ausência,S,N,S,11,15,69
+sumaríssimo,326,10765.92,comércio,direção,multa do Art. 477,8,presença,S,N,N,9,9,130
+trabalhista,1,12173.11,comércio,direção,falta de registro em carteira,9,ausência,S,S,N,3,2,140
+trabalhista,133,1558.49,comércio,direção,indenização por danos morais,1,ausência,S,S,S,9,59,249
+trabalhista,233,8514.79,comércio,direção,adicional noturno,4,presença,N,S,N,3,6,94
+trabalhista,12,12517.59,comércio,direção,horas extras e reflexos,4,ausência,S,S,S,2,27,178
+sumaríssimo,346,12356.75,comércio,execução,horas extras e reflexos,2,ausência,S,N,S,12,1,175
+trabalhista,46,16066.17,serviço,direção,diferença salarial,6,ausência,S,S,S,10,29,51
+trabalhista,34,13445.18,serviço,direção,falta de registro em carteira,3,presença,N,S,S,9,32,179
+trabalhista,78,19850.53,serviço,direção,plano de saúde,7,ausência,N,S,N,15,16,37
+trabalhista,218,6393.24,serviço,execução,diferença salarial,5,ausência,S,S,N,8,16,46
+trabalhista,301,7823.87,comércio,execução,multa do Art. 477,4,presença,N,S,N,5,11,46
+sumaríssimo,73,8293.1,serviço,execução,diferença salarial,5,presença,N,N,S,11,4,119
+trabalhista,282,9850.44,comércio,direção,falta de registro em carteira,8,presença,N,S,N,2,13,170
+sumaríssimo,249,16883.96,serviço,execução,fundo de garantia por tempo de serviço,3,presença,N,N,S,15,7,142
+trabalhista,47,5480.05,indústria,direção,adicional de insalubridade,7,presença,N,S,N,6,4,110
+sumaríssimo,121,15744.0,serviço,direção,adicional de insalubridade,6,ausência,N,N,N,8,15,107
+trabalhista,214,8700.89,serviço,execução,adicional noturno,1,ausência,S,S,N,5,9,222
+trabalhista,239,12435.25,comércio,direção,indenização por danos morais,7,ausência,N,S,S,16,49,139
+sumaríssimo,56,13018.27,serviço,direção,horas extras e reflexos,7,presença,N,N,N,18,8,43
+sumaríssimo,350,8084.12,indústria,direção,multa do Art. 477,1,ausência,S,N,N,6,1,159
+sumaríssimo,107,10739.69,comércio,execução,horas extras e reflexos,9,presença,S,N,S,5,8,172
+trabalhista,319,8847.59,comércio,direção,verbas recisórias,6,presença,S,S,N,16,13,83
+sumaríssimo,48,2313.52,serviço,direção,adicional noturno,2,ausência,S,N,S,13,4,183
+trabalhista,61,9306.14,comércio,execução,indenização por danos morais,5,presença,N,S,N,5,8,42
+trabalhista,337,2850.47,comércio,direção,vale transporte,4,presença,N,S,S,13,48,89
+sumaríssimo,26,8695.4,comércio,direção,plano de saúde,7,ausência,N,N,S,17,9,35
+sumaríssimo,292,12265.45,comércio,execução,plano de saúde,8,presença,N,N,N,18,2,87
+trabalhista,257,12008.88,comércio,direção,diferença salarial,1,presença,S,S,S,8,33,204
+trabalhista,8,13589.8,comércio,direção,multa do Art. 467,5,ausência,N,S,S,13,43,55
+sumaríssimo,113,2809.97,indústria,direção,falta de registro em carteira,3,presença,N,N,S,19,15,270
+sumaríssimo,355,13390.34,serviço,direção,horas extras e reflexos,1,presença,S,N,S,3,12,276
+sumaríssimo,253,6930.81,indústria,direção,diferença salarial,3,ausência,N,N,S,8,4,298
+trabalhista,180,8581.87,comércio,execução,multa do Art. 477,6,ausência,N,S,S,2,57,163
+trabalhista,207,17301.74,comércio,execução,horas extras e reflexos,7,ausência,N,S,N,8,9,88
+trabalhista,303,1171.58,serviço,execução,vale transporte,8,ausência,N,S,S,13,38,175
+trabalhista,127,12179.84,indústria,execução,adicional de insalubridade,4,presença,S,S,S,13,48,161
+trabalhista,56,12375.57,serviço,direção,indenização por danos morais,3,presença,S,S,N,1,15,208
+trabalhista,214,8536.54,indústria,direção,adicional noturno,5,ausência,S,S,N,6,9,43
+sumaríssimo,14,5503.53,comércio,direção,indenização por danos morais,9,presença,S,N,N,19,17,42
+trabalhista,28,5458.81,serviço,direção,adicional de insalubridade,6,presença,S,S,N,16,12,164
+trabalhista,78,17790.48,serviço,direção,horas extras e reflexos,9,ausência,N,S,N,8,7,157
+trabalhista,216,9398.46,comércio,execução,multa do Art. 477,6,ausência,N,S,N,1,10,73
+sumaríssimo,154,7286.9,serviço,execução,indenização por danos morais,2,presença,S,N,N,16,10,150
+trabalhista,14,9526.77,indústria,direção,plano de saúde,5,ausência,S,S,S,9,31,172
+trabalhista,187,13718.42,indústria,direção,indenização por danos morais,9,ausência,S,S,S,13,20,48
+sumaríssimo,312,3769.37,indústria,direção,vale transporte,8,ausência,N,N,N,11,13,92
+trabalhista,7,9539.24,indústria,execução,falta de registro em carteira,7,presença,S,S,S,13,54,110
+trabalhista,3,12169.8,comércio,direção,multa do Art. 477,1,ausência,N,S,S,10,55,297
+trabalhista,111,19023.08,serviço,direção,multa do Art. 477,4,presença,N,S,S,4,45,177
+trabalhista,238,5798.03,indústria,direção,fundo de garantia por tempo de serviço,7,presença,N,S,N,6,15,129
+trabalhista,239,7825.76,comércio,execução,adicional de insalubridade,7,presença,N,S,N,7,11,151
+sumaríssimo,274,8207.81,serviço,direção,fundo de garantia por tempo de serviço,6,ausência,S,N,S,5,11,73
+sumaríssimo,294,12505.22,serviço,execução,plano de saúde,8,ausência,N,N,N,11,1,133
+sumaríssimo,227,7777.91,comércio,execução,adicional de insalubridade,6,ausência,N,N,S,13,17,90
+trabalhista,15,11136.73,comércio,execução,indenização por danos morais,10,ausência,S,S,S,19,48,154
+trabalhista,192,15854.02,indústria,execução,adicional de insalubridade,3,ausência,N,S,S,10,36,139
+trabalhista,119,14402.33,serviço,execução,multa do Art. 467,4,presença,N,S,S,10,36,100
+sumaríssimo,28,9481.0,serviço,execução,fundo de garantia por tempo de serviço,3,presença,N,N,N,11,9,249
+trabalhista,202,17420.11,comércio,direção,indenização por danos morais,1,presença,S,S,N,7,14,272
+trabalhista,39,11604.66,serviço,direção,seguro desemprego,10,ausência,N,S,N,18,17,94
+sumaríssimo,273,11258.21,indústria,direção,verbas recisórias,5,presença,N,N,S,4,5,128
+trabalhista,231,1649.57,serviço,execução,verbas recisórias,1,presença,S,S,N,2,9,132
+sumaríssimo,86,19747.17,comércio,direção,multa do Art. 477,1,ausência,S,N,S,14,11,241
+sumaríssimo,126,3336.45,comércio,execução,multa do Art. 467,2,ausência,N,N,N,13,1,222
+sumaríssimo,300,5391.49,indústria,execução,vale transporte,4,presença,N,N,S,12,6,157
+trabalhista,25,1982.24,indústria,execução,falta de registro em carteira,6,presença,S,S,S,7,35,171
+trabalhista,145,13160.06,serviço,direção,fundo de garantia por tempo de serviço,8,ausência,N,S,S,2,56,141
+trabalhista,13,5269.32,serviço,execução,seguro desemprego,3,ausência,S,S,N,13,14,225
+trabalhista,212,4420.2,comércio,execução,indenização por danos morais,1,ausência,N,S,N,14,5,238
+trabalhista,25,2682.56,indústria,direção,multa do Art. 467,3,ausência,S,S,N,17,6,189
+trabalhista,68,2962.87,indústria,direção,multa do Art. 477,3,presença,N,S,N,9,6,218
+trabalhista,67,12108.74,indústria,execução,adicional noturno,5,presença,S,S,S,17,35,119
+sumaríssimo,233,14075.95,serviço,execução,fundo de garantia por tempo de serviço,4,ausência,S,N,N,8,10,57
+trabalhista,109,8550.2,indústria,direção,multa do Art. 467,4,presença,S,S,N,2,14,125
+sumaríssimo,146,10118.04,comércio,direção,fundo de garantia por tempo de serviço,9,presença,S,N,S,13,13,60
+trabalhista,111,14033.39,comércio,direção,adicional noturno,7,ausência,S,S,S,3,37,32
+trabalhista,228,1330.22,serviço,execução,falta de registro em carteira,4,presença,N,S,S,16,36,165
+trabalhista,111,7139.48,serviço,direção,falta de registro em carteira,3,presença,N,S,N,6,8,201
+sumaríssimo,34,19488.86,indústria,direção,vale transporte,6,presença,S,N,S,19,12,44
+sumaríssimo,111,12022.13,serviço,direção,plano de saúde,3,ausência,N,N,S,7,13,194
+sumaríssimo,264,5830.27,comércio,execução,verbas recisórias,6,ausência,N,N,S,10,11,37
+sumaríssimo,236,10912.87,indústria,direção,adicional de insalubridade,9,presença,N,N,N,9,12,100
+trabalhista,83,7510.42,comércio,direção,diferença salarial,6,ausência,N,S,S,2,39,137
+sumaríssimo,42,11112.65,indústria,direção,diferença salarial,4,ausência,N,N,N,15,17,144
+trabalhista,101,3389.09,serviço,direção,fundo de garantia por tempo de serviço,5,ausência,N,S,N,5,16,132
+trabalhista,6,3521.58,indústria,direção,adicional noturno,6,presença,S,S,S,4,30,154
+sumaríssimo,180,3727.3,indústria,execução,vale transporte,3,presença,N,N,S,20,13,237
+sumaríssimo,282,18856.58,comércio,execução,diferença salarial,8,ausência,N,N,N,4,11,59
+sumaríssimo,320,14925.08,comércio,execução,adicional de insalubridade,4,presença,N,N,S,18,12,175
+sumaríssimo,226,4085.26,indústria,direção,multa do Art. 477,8,presença,S,N,S,4,6,143
+sumaríssimo,315,4578.63,serviço,execução,diferença salarial,10,presença,N,N,N,17,9,146
+sumaríssimo,229,14885.76,serviço,execução,horas extras e reflexos,10,presença,N,N,N,12,16,89
+sumaríssimo,289,3967.11,comércio,execução,indenização por danos morais,3,presença,N,N,S,17,4,203
+sumaríssimo,150,5456.66,serviço,direção,vale transporte,10,ausência,S,N,N,10,3,155
+trabalhista,277,19303.59,comércio,direção,multa do Art. 477,7,presença,N,S,S,1,26,123
+sumaríssimo,198,5850.82,serviço,execução,multa do Art. 467,9,presença,S,N,S,18,12,163
+sumaríssimo,70,13571.01,indústria,execução,multa do Art. 477,4,presença,N,N,S,18,11,151
+trabalhista,112,19593.99,comércio,direção,verbas recisórias,8,ausência,S,S,N,14,5,137
+sumaríssimo,4,8111.64,comércio,direção,multa do Art. 467,3,ausência,S,N,S,15,6,188
+trabalhista,350,1332.8,indústria,execução,seguro desemprego,7,ausência,S,S,S,12,19,122
+trabalhista,331,5638.8,comércio,direção,indenização por danos morais,3,presença,N,S,S,4,30,178
+sumaríssimo,318,16786.67,serviço,execução,indenização por danos morais,7,ausência,S,N,N,3,12,61
+trabalhista,350,17427.57,serviço,direção,indenização por danos morais,10,ausência,S,S,N,20,2,135
+trabalhista,95,15601.87,comércio,execução,adicional noturno,10,ausência,S,S,N,12,17,175
+trabalhista,152,3149.09,serviço,execução,indenização por danos morais,6,ausência,S,S,N,7,11,44
+trabalhista,311,16114.7,comércio,direção,fundo de garantia por tempo de serviço,2,presença,N,S,N,11,11,245
+sumaríssimo,137,18454.88,indústria,execução,indenização por danos morais,3,ausência,N,N,S,1,16,230
+trabalhista,247,12411.58,comércio,execução,adicional de insalubridade,6,ausência,N,S,N,6,2,35
+sumaríssimo,243,18876.63,indústria,execução,indenização por danos morais,4,presença,N,N,N,15,2,141
+trabalhista,31,16709.94,serviço,direção,plano de saúde,6,presença,S,S,N,15,8,149
+trabalhista,40,13672.46,indústria,direção,indenização por danos morais,1,ausência,N,S,S,19,34,181
+trabalhista,229,11966.52,serviço,direção,adicional noturno,10,presença,S,S,N,11,10,96
+trabalhista,36,7622.9,comércio,execução,vale transporte,1,ausência,N,S,N,2,8,263
+sumaríssimo,223,4026.46,serviço,direção,fundo de garantia por tempo de serviço,3,presença,N,N,S,14,4,247
+sumaríssimo,6,12494.12,comércio,execução,adicional noturno,8,presença,N,N,N,2,15,72
+trabalhista,322,7044.12,comércio,execução,falta de registro em carteira,8,ausência,S,S,S,4,48,174
+trabalhista,220,17462.33,indústria,direção,multa do Art. 477,4,presença,N,S,S,17,37,125
+sumaríssimo,75,19873.4,indústria,direção,plano de saúde,6,ausência,N,N,S,3,7,161
+trabalhista,4,15296.13,indústria,execução,plano de saúde,8,presença,N,S,S,13,54,110
+trabalhista,335,2719.15,indústria,execução,multa do Art. 477,7,ausência,S,S,S,9,53,70
+trabalhista,134,6485.03,serviço,direção,multa do Art. 467,7,presença,N,S,N,7,9,162
+sumaríssimo,118,3073.08,serviço,direção,vale transporte,4,presença,N,N,S,15,5,64
+sumaríssimo,94,13359.72,serviço,direção,horas extras e reflexos,9,presença,S,N,S,11,10,51
+sumaríssimo,62,15538.63,comércio,execução,multa do Art. 477,10,presença,S,N,N,20,4,179
+trabalhista,194,18587.82,serviço,execução,diferença salarial,6,presença,N,S,S,2,32,141
+trabalhista,335,9325.27,serviço,execução,horas extras e reflexos,3,ausência,N,S,N,15,10,224
+sumaríssimo,203,18126.14,serviço,execução,indenização por danos morais,5,presença,N,N,N,14,11,32
+sumaríssimo,26,17679.93,indústria,execução,indenização por danos morais,5,ausência,S,N,N,20,10,166
+sumaríssimo,173,7026.72,serviço,direção,fundo de garantia por tempo de serviço,5,ausência,S,N,S,11,8,89
+sumaríssimo,300,17509.11,comércio,direção,horas extras e reflexos,8,ausência,S,N,S,3,2,105
+trabalhista,133,8137.77,indústria,execução,diferença salarial,9,presença,N,S,S,17,30,116
+sumaríssimo,326,6640.52,comércio,execução,fundo de garantia por tempo de serviço,9,ausência,S,N,N,12,16,43
+trabalhista,118,13332.42,serviço,direção,adicional de insalubridade,6,presença,N,S,S,15,30,47
+sumaríssimo,324,7239.24,indústria,direção,adicional noturno,6,ausência,S,N,S,16,3,142
+trabalhista,275,12973.97,comércio,direção,multa do Art. 467,9,ausência,S,S,S,5,34,102
+sumaríssimo,212,12586.8,serviço,direção,horas extras e reflexos,4,ausência,S,N,N,20,13,52
+sumaríssimo,225,11705.34,comércio,execução,vale transporte,6,ausência,N,N,N,6,13,112
+sumaríssimo,20,8227.97,comércio,direção,indenização por danos morais,4,ausência,N,N,S,19,10,154
+sumaríssimo,113,11421.49,comércio,execução,indenização por danos morais,1,presença,N,N,S,5,4,187
+trabalhista,140,12333.22,serviço,direção,verbas recisórias,7,ausência,N,S,S,3,23,76
+sumaríssimo,47,11368.05,serviço,direção,adicional noturno,10,ausência,S,N,S,1,2,145
+trabalhista,1,9443.97,comércio,direção,adicional noturno,6,presença,N,S,N,6,1,59
+trabalhista,90,1278.67,indústria,execução,fundo de garantia por tempo de serviço,9,presença,S,S,N,15,7,54
+trabalhista,142,12154.17,indústria,execução,falta de registro em carteira,7,presença,N,S,N,2,17,141
+trabalhista,320,4200.44,serviço,direção,falta de registro em carteira,7,ausência,N,S,N,3,3,54
+sumaríssimo,38,13208.94,serviço,execução,fundo de garantia por tempo de serviço,2,ausência,S,N,S,17,3,134
+trabalhista,293,15427.54,serviço,execução,vale transporte,9,ausência,S,S,S,12,44,87
+trabalhista,139,10508.46,serviço,direção,seguro desemprego,10,ausência,N,S,S,18,52,123
+trabalhista,356,11304.91,serviço,direção,fundo de garantia por tempo de serviço,9,ausência,N,S,N,15,7,148
+sumaríssimo,333,19078.09,indústria,execução,vale transporte,6,ausência,S,N,S,12,14,156
+sumaríssimo,259,17096.18,serviço,execução,multa do Art. 467,3,presença,S,N,N,16,17,154
+sumaríssimo,161,18370.49,comércio,execução,indenização por danos morais,1,presença,S,N,N,8,13,133
+sumaríssimo,178,16461.56,comércio,direção,diferença salarial,4,ausência,S,N,S,14,4,128
+trabalhista,10,3069.45,indústria,direção,seguro desemprego,3,ausência,S,S,S,17,52,296
+trabalhista,261,3830.85,comércio,execução,horas extras e reflexos,1,ausência,N,S,S,8,41,221
+sumaríssimo,138,11005.85,indústria,direção,plano de saúde,3,ausência,N,N,N,15,13,219
+trabalhista,172,5675.32,indústria,direção,seguro desemprego,4,ausência,N,S,S,14,41,128
+trabalhista,13,10057.21,comércio,execução,diferença salarial,8,presença,N,S,N,18,11,40
+trabalhista,168,8492.94,serviço,execução,verbas recisórias,9,presença,S,S,S,20,55,114
+sumaríssimo,130,11438.87,comércio,direção,adicional noturno,3,ausência,S,N,N,7,9,126
+sumaríssimo,84,15190.64,comércio,direção,indenização por danos morais,6,presença,S,N,N,3,5,164
+trabalhista,321,14594.33,indústria,execução,falta de registro em carteira,10,ausência,N,S,S,12,49,155
+sumaríssimo,319,10903.45,comércio,direção,vale transporte,5,ausência,S,N,N,3,17,93
+sumaríssimo,101,16625.47,indústria,direção,fundo de garantia por tempo de serviço,6,ausência,S,N,N,20,2,31
+sumaríssimo,329,9186.38,serviço,execução,fundo de garantia por tempo de serviço,4,presença,N,N,S,14,13,105
+sumaríssimo,273,18037.57,serviço,execução,plano de saúde,10,presença,N,N,N,15,9,150
+sumaríssimo,265,2354.33,serviço,direção,falta de registro em carteira,6,ausência,N,N,S,14,4,71
+trabalhista,38,19138.54,comércio,direção,seguro desemprego,7,presença,S,S,N,7,5,83
+sumaríssimo,94,13439.17,indústria,direção,indenização por danos morais,9,presença,S,N,S,17,11,104
+trabalhista,95,8221.42,serviço,execução,multa do Art. 477,10,ausência,N,S,S,12,41,45
+trabalhista,305,4745.93,indústria,direção,vale transporte,7,presença,N,S,N,20,12,47
+sumaríssimo,69,10104.48,indústria,direção,adicional de insalubridade,6,presença,S,N,N,4,13,119
+trabalhista,318,4696.61,serviço,execução,multa do Art. 467,1,ausência,N,S,N,9,7,149
+trabalhista,236,4160.3,serviço,execução,diferença salarial,2,ausência,S,S,N,6,15,168
+trabalhista,334,12729.68,indústria,direção,plano de saúde,1,presença,N,S,N,16,7,263
+sumaríssimo,137,10938.61,serviço,execução,seguro desemprego,9,ausência,N,N,S,2,8,77
+sumaríssimo,76,13731.82,indústria,execução,adicional noturno,10,presença,N,N,N,8,5,71
+trabalhista,35,18662.51,indústria,direção,adicional noturno,10,ausência,S,S,S,11,59,105
+sumaríssimo,1,11112.94,serviço,execução,horas extras e reflexos,9,ausência,S,N,S,13,4,106
+sumaríssimo,296,12037.71,comércio,execução,verbas recisórias,7,ausência,N,N,N,17,10,161
+sumaríssimo,320,2702.9,serviço,direção,adicional noturno,2,ausência,S,N,S,8,15,230
+sumaríssimo,60,14635.08,comércio,execução,fundo de garantia por tempo de serviço,6,presença,N,N,S,18,13,88
+trabalhista,320,8598.2,indústria,direção,seguro desemprego,4,ausência,N,S,S,18,41,56
+trabalhista,349,19557.78,indústria,direção,verbas recisórias,1,ausência,S,S,S,14,57,298
+sumaríssimo,328,16640.31,comércio,execução,diferença salarial,1,ausência,S,N,N,15,16,191
+sumaríssimo,267,10927.14,indústria,execução,fundo de garantia por tempo de serviço,5,presença,S,N,S,6,16,36
+trabalhista,229,3341.23,comércio,execução,fundo de garantia por tempo de serviço,2,presença,S,S,N,11,7,199
+trabalhista,270,17328.9,comércio,direção,multa do Art. 477,4,ausência,N,S,N,13,14,148
+sumaríssimo,316,16195.84,indústria,execução,adicional de insalubridade,1,ausência,S,N,S,1,14,202
+trabalhista,286,4507.12,comércio,direção,seguro desemprego,4,ausência,S,S,N,6,4,153
+sumaríssimo,291,6610.29,serviço,execução,indenização por danos morais,6,ausência,N,N,N,9,15,41
+sumaríssimo,213,16074.74,serviço,execução,plano de saúde,10,ausência,N,N,N,8,3,170
+trabalhista,165,4519.34,indústria,execução,plano de saúde,4,ausência,N,S,S,11,51,72
+trabalhista,5,18437.3,indústria,direção,falta de registro em carteira,1,presença,N,S,N,19,1,161
+sumaríssimo,339,9066.02,comércio,execução,falta de registro em carteira,7,ausência,S,N,N,9,3,92
+sumaríssimo,78,2653.74,comércio,execução,multa do Art. 467,2,ausência,S,N,N,17,15,136
+trabalhista,62,16499.22,comércio,direção,horas extras e reflexos,9,ausência,N,S,S,12,57,65
+sumaríssimo,132,8096.68,comércio,direção,verbas recisórias,3,ausência,N,N,N,14,4,292
+trabalhista,89,11003.48,serviço,execução,plano de saúde,8,ausência,S,S,S,15,22,98
+sumaríssimo,237,3133.78,serviço,execução,seguro desemprego,8,ausência,S,N,S,16,10,119
+trabalhista,42,1049.1,indústria,execução,adicional noturno,3,presença,S,S,S,20,26,126
+trabalhista,89,13121.72,comércio,direção,vale transporte,4,presença,S,S,S,1,56,57
+trabalhista,296,10788.33,comércio,direção,horas extras e reflexos,2,presença,S,S,S,10,25,274
+sumaríssimo,328,12277.23,indústria,direção,multa do Art. 477,4,presença,N,N,S,8,17,122
+sumaríssimo,295,16081.13,comércio,direção,adicional noturno,9,presença,N,N,N,18,13,105
+trabalhista,104,13285.51,comércio,execução,fundo de garantia por tempo de serviço,2,presença,N,S,S,1,21,129
+sumaríssimo,14,4320.7,comércio,direção,indenização por danos morais,3,ausência,N,N,N,2,9,153
+trabalhista,288,7854.68,comércio,direção,seguro desemprego,4,ausência,S,S,N,1,6,43
+trabalhista,179,18211.93,comércio,direção,plano de saúde,5,ausência,N,S,S,1,43,100
+sumaríssimo,125,15628.95,indústria,execução,adicional de insalubridade,1,ausência,S,N,N,9,10,155
+sumaríssimo,353,11576.1,comércio,execução,horas extras e reflexos,7,ausência,S,N,N,13,8,154
+trabalhista,23,5857.25,indústria,direção,horas extras e reflexos,10,ausência,S,S,N,1,7,66
+sumaríssimo,63,6739.15,comércio,direção,indenização por danos morais,7,presença,S,N,N,13,7,58
+sumaríssimo,143,14907.2,serviço,execução,adicional noturno,9,ausência,S,N,S,20,6,172
+trabalhista,153,17172.31,serviço,execução,multa do Art. 467,4,presença,S,S,N,7,3,48
+trabalhista,145,13757.07,serviço,execução,verbas recisórias,6,presença,S,S,S,2,43,135
+sumaríssimo,225,16381.07,serviço,execução,adicional noturno,2,ausência,N,N,N,6,4,272
+trabalhista,309,15566.47,indústria,execução,verbas recisórias,4,ausência,S,S,N,7,12,93
+trabalhista,104,3844.38,indústria,execução,plano de saúde,2,ausência,N,S,S,14,40,125
+sumaríssimo,104,9054.95,comércio,execução,horas extras e reflexos,10,ausência,N,N,N,18,4,84
+trabalhista,39,3906.69,serviço,execução,diferença salarial,5,ausência,S,S,N,15,15,58
+trabalhista,198,5469.48,indústria,direção,horas extras e reflexos,7,ausência,S,S,N,2,9,177
+sumaríssimo,134,17515.93,comércio,direção,plano de saúde,1,ausência,N,N,S,10,5,271
+sumaríssimo,67,9984.95,comércio,direção,horas extras e reflexos,10,presença,N,N,N,12,13,99
+trabalhista,179,11171.8,indústria,direção,indenização por danos morais,10,ausência,N,S,S,17,22,92
+trabalhista,42,4390.47,serviço,direção,fundo de garantia por tempo de serviço,7,ausência,N,S,N,8,16,159
+sumaríssimo,15,6933.16,comércio,direção,indenização por danos morais,10,presença,S,N,S,11,14,179
+sumaríssimo,111,5374.68,serviço,execução,seguro desemprego,6,ausência,S,N,S,3,16,45
+sumaríssimo,157,4917.54,serviço,execução,horas extras e reflexos,6,ausência,S,N,N,6,15,175
+sumaríssimo,289,13121.26,serviço,direção,verbas recisórias,8,presença,N,N,N,9,4,129
+trabalhista,231,5880.79,comércio,direção,vale transporte,8,ausência,S,S,S,6,19,59
+sumaríssimo,157,13008.29,serviço,execução,verbas recisórias,6,ausência,N,N,S,9,16,74
+sumaríssimo,38,2110.64,comércio,execução,adicional de insalubridade,3,ausência,S,N,N,7,8,265
+trabalhista,97,3693.71,serviço,execução,adicional noturno,5,ausência,N,S,S,9,25,63
+sumaríssimo,289,6216.26,comércio,direção,falta de registro em carteira,2,ausência,S,N,N,18,16,253
+trabalhista,254,12343.89,serviço,execução,adicional de insalubridade,5,ausência,S,S,N,12,10,91
+sumaríssimo,196,13840.98,indústria,direção,plano de saúde,9,presença,N,N,N,8,10,147
+sumaríssimo,86,9411.62,serviço,direção,multa do Art. 467,10,ausência,N,N,N,8,2,129
+sumaríssimo,322,9470.03,serviço,execução,multa do Art. 477,1,ausência,N,N,S,18,9,148
+trabalhista,10,14765.82,comércio,execução,seguro desemprego,10,presença,N,S,N,20,17,140
+trabalhista,5,1300.6,comércio,direção,seguro desemprego,5,presença,N,S,S,15,39,102
+sumaríssimo,123,7480.71,serviço,execução,multa do Art. 467,6,ausência,S,N,N,7,10,176
+trabalhista,330,16555.43,indústria,execução,vale transporte,7,presença,N,S,S,11,22,67
+trabalhista,353,12461.17,indústria,direção,multa do Art. 477,9,ausência,S,S,N,20,4,99
+trabalhista,118,7407.32,comércio,execução,fundo de garantia por tempo de serviço,6,ausência,S,S,S,16,29,145
+trabalhista,294,18204.97,indústria,direção,horas extras e reflexos,5,presença,S,S,S,4,27,108
+trabalhista,159,15679.83,serviço,direção,multa do Art. 477,7,ausência,S,S,N,6,5,177
+trabalhista,303,6033.01,comércio,execução,plano de saúde,1,ausência,S,S,N,3,6,245
+sumaríssimo,228,13260.51,serviço,direção,plano de saúde,5,presença,N,N,N,9,17,61
+sumaríssimo,216,12319.26,comércio,direção,vale transporte,2,presença,N,N,N,10,1,272
+trabalhista,184,8622.57,comércio,execução,diferença salarial,4,presença,S,S,S,14,28,79
+sumaríssimo,15,7972.17,comércio,execução,falta de registro em carteira,7,presença,S,N,N,11,17,111
+sumaríssimo,157,7527.65,comércio,execução,multa do Art. 477,5,ausência,N,N,S,18,9,34
+sumaríssimo,136,12725.96,indústria,direção,multa do Art. 477,6,presença,N,N,S,12,2,177
+sumaríssimo,261,9405.79,serviço,direção,plano de saúde,2,presença,S,N,N,12,8,200
+trabalhista,157,16805.4,serviço,execução,falta de registro em carteira,3,presença,N,S,S,13,42,293
+sumaríssimo,47,13722.45,serviço,direção,horas extras e reflexos,7,presença,N,N,S,13,7,104
+sumaríssimo,324,2328.7,comércio,execução,multa do Art. 477,2,presença,N,N,S,19,6,271
+trabalhista,332,13163.2,indústria,execução,falta de registro em carteira,6,ausência,S,S,S,19,59,97
+trabalhista,173,6151.8,serviço,direção,falta de registro em carteira,5,presença,N,S,N,14,15,73
+sumaríssimo,130,12263.43,indústria,execução,plano de saúde,10,ausência,S,N,N,4,7,63
+sumaríssimo,95,13922.51,comércio,direção,falta de registro em carteira,1,presença,S,N,N,13,17,194
+sumaríssimo,115,5385.75,serviço,direção,indenização por danos morais,10,presença,S,N,N,8,2,71
+sumaríssimo,243,9680.31,indústria,execução,vale transporte,4,presença,S,N,S,19,9,166
+sumaríssimo,292,4616.17,comércio,direção,indenização por danos morais,2,presença,S,N,S,12,9,145
+sumaríssimo,282,1994.44,indústria,execução,diferença salarial,4,presença,N,N,N,18,13,124
+trabalhista,299,8191.05,serviço,direção,adicional de insalubridade,1,presença,S,S,N,6,6,246
+sumaríssimo,283,7895.94,serviço,direção,plano de saúde,2,presença,S,N,N,18,6,234
+sumaríssimo,69,19914.13,comércio,direção,fundo de garantia por tempo de serviço,8,presença,S,N,S,19,3,176
+trabalhista,148,9480.69,comércio,execução,indenização por danos morais,6,ausência,N,S,N,5,17,157
+trabalhista,11,7337.82,comércio,direção,indenização por danos morais,2,presença,N,S,N,9,17,245
+trabalhista,254,12029.03,indústria,execução,adicional de insalubridade,6,ausência,N,S,N,3,12,112
+trabalhista,330,2686.58,indústria,direção,vale transporte,10,presença,N,S,S,10,33,124
+sumaríssimo,360,19271.65,indústria,direção,adicional de insalubridade,9,ausência,N,N,S,19,15,61
+sumaríssimo,38,13064.24,comércio,execução,plano de saúde,7,presença,N,N,S,3,13,95
+sumaríssimo,134,15341.92,serviço,execução,fundo de garantia por tempo de serviço,9,presença,N,N,S,15,1,145
+sumaríssimo,200,4239.08,serviço,execução,multa do Art. 467,5,presença,S,N,S,1,17,167
+sumaríssimo,23,8780.08,indústria,execução,falta de registro em carteira,7,ausência,S,N,S,7,3,159
+sumaríssimo,303,9031.09,indústria,execução,adicional noturno,7,ausência,N,N,S,12,15,89
+trabalhista,346,16614.32,serviço,direção,seguro desemprego,3,ausência,S,S,S,17,38,147
+sumaríssimo,302,1023.5,serviço,direção,plano de saúde,7,ausência,S,N,N,20,4,125
+trabalhista,218,6716.21,indústria,execução,fundo de garantia por tempo de serviço,1,presença,N,S,N,5,17,250
+trabalhista,141,19643.49,indústria,direção,diferença salarial,9,presença,S,S,S,4,29,45
+sumaríssimo,104,10022.84,serviço,direção,horas extras e reflexos,10,presença,S,N,S,12,3,75
+trabalhista,210,8268.0,comércio,direção,diferença salarial,6,ausência,N,S,N,20,8,136
+sumaríssimo,111,3276.75,indústria,execução,falta de registro em carteira,5,presença,S,N,S,18,14,117
+trabalhista,104,19509.13,serviço,direção,fundo de garantia por tempo de serviço,7,ausência,N,S,S,17,58,158
+sumaríssimo,316,1380.5,serviço,direção,plano de saúde,5,ausência,N,N,S,19,14,168
+trabalhista,171,15006.42,serviço,direção,diferença salarial,10,ausência,S,S,N,9,2,148
+sumaríssimo,356,15603.4,serviço,execução,plano de saúde,5,ausência,S,N,N,4,4,114
+sumaríssimo,324,5629.48,comércio,direção,diferença salarial,10,ausência,S,N,N,2,6,33
+sumaríssimo,133,13759.61,serviço,direção,plano de saúde,7,presença,N,N,N,4,1,100
+sumaríssimo,293,2765.65,indústria,execução,adicional de insalubridade,10,ausência,N,N,N,2,17,140
+sumaríssimo,328,5883.9,comércio,execução,multa do Art. 467,7,ausência,N,N,S,15,8,79
+trabalhista,127,15970.14,serviço,direção,multa do Art. 467,3,presença,S,S,N,2,1,194
+trabalhista,106,17429.04,comércio,direção,fundo de garantia por tempo de serviço,3,ausência,S,S,S,4,35,285
+trabalhista,92,12561.24,indústria,execução,falta de registro em carteira,10,ausência,N,S,S,6,22,121
+sumaríssimo,287,10629.93,serviço,execução,indenização por danos morais,3,presença,S,N,N,7,6,197
+trabalhista,51,4026.78,indústria,execução,verbas recisórias,6,presença,S,S,N,10,8,76
+sumaríssimo,29,2199.07,serviço,execução,multa do Art. 477,6,presença,N,N,S,19,13,135
+sumaríssimo,296,3235.33,serviço,execução,seguro desemprego,3,ausência,N,N,S,19,16,298
+trabalhista,297,5319.79,serviço,execução,multa do Art. 477,3,presença,S,S,S,12,31,209
+trabalhista,214,7491.82,serviço,execução,vale transporte,8,presença,N,S,N,3,12,53
+sumaríssimo,267,8237.28,serviço,direção,adicional noturno,8,presença,S,N,N,13,16,33
+trabalhista,257,7580.11,comércio,execução,multa do Art. 467,7,ausência,N,S,N,18,11,137
+sumaríssimo,302,5542.05,serviço,execução,fundo de garantia por tempo de serviço,10,presença,N,N,N,8,10,48
+sumaríssimo,101,10684.76,serviço,direção,multa do Art. 477,4,ausência,N,N,N,15,4,69
+sumaríssimo,346,16680.44,comércio,execução,falta de registro em carteira,4,ausência,S,N,S,1,12,79
+sumaríssimo,110,6314.37,comércio,execução,seguro desemprego,3,presença,S,N,N,3,2,295
+sumaríssimo,182,18905.35,comércio,direção,multa do Art. 477,5,ausência,N,N,S,8,5,41
+trabalhista,313,17593.4,comércio,execução,seguro desemprego,3,ausência,N,S,S,4,30,140
+trabalhista,1,4073.52,comércio,direção,horas extras e reflexos,8,presença,N,S,S,16,29,142
+sumaríssimo,319,15939.24,comércio,direção,falta de registro em carteira,7,ausência,S,N,N,10,14,78
+sumaríssimo,55,11917.16,serviço,direção,adicional noturno,3,presença,N,N,N,12,3,173
+trabalhista,149,11764.93,serviço,direção,verbas recisórias,9,ausência,N,S,N,14,16,159
+trabalhista,309,8429.81,indústria,execução,adicional de insalubridade,5,ausência,N,S,S,14,20,89
+sumaríssimo,137,10521.91,serviço,direção,diferença salarial,9,presença,N,N,S,2,8,59
+trabalhista,202,8546.4,serviço,direção,seguro desemprego,7,presença,S,S,S,5,41,113
+sumaríssimo,313,11254.92,comércio,execução,adicional noturno,7,ausência,S,N,S,5,17,57
+trabalhista,117,12931.05,comércio,direção,falta de registro em carteira,6,ausência,N,S,S,6,56,54
+sumaríssimo,154,13811.77,serviço,direção,plano de saúde,2,presença,S,N,S,13,11,222
+trabalhista,291,11117.14,indústria,direção,seguro desemprego,9,ausência,S,S,N,9,5,154
+sumaríssimo,63,14707.02,comércio,direção,seguro desemprego,6,ausência,S,N,N,15,12,39
+trabalhista,244,3684.28,serviço,execução,indenização por danos morais,8,ausência,N,S,N,14,17,71
+trabalhista,25,5027.67,serviço,direção,indenização por danos morais,1,ausência,S,S,N,7,6,178
+sumaríssimo,90,16555.97,indústria,execução,adicional de insalubridade,5,presença,S,N,S,20,1,106
+trabalhista,75,7128.03,indústria,execução,adicional noturno,1,presença,S,S,S,2,40,191
+sumaríssimo,294,1434.98,comércio,direção,falta de registro em carteira,10,presença,N,N,N,7,14,147
+trabalhista,210,3922.03,indústria,direção,adicional de insalubridade,8,presença,N,S,S,6,37,71
+sumaríssimo,347,5248.67,serviço,direção,indenização por danos morais,8,presença,S,N,N,17,1,76
+trabalhista,17,19189.13,serviço,direção,vale transporte,1,presença,S,S,N,2,16,298
+sumaríssimo,128,11887.79,indústria,execução,verbas recisórias,9,ausência,N,N,N,3,9,136
+trabalhista,251,18721.88,indústria,execução,adicional de insalubridade,2,presença,N,S,S,5,35,139
+sumaríssimo,179,11928.1,indústria,execução,fundo de garantia por tempo de serviço,9,ausência,S,N,N,5,2,70
+trabalhista,182,10107.73,indústria,direção,adicional de insalubridade,1,ausência,S,S,N,1,15,231
+sumaríssimo,152,6960.83,comércio,execução,falta de registro em carteira,10,ausência,N,N,N,8,7,118
+sumaríssimo,25,12521.05,indústria,direção,falta de registro em carteira,9,presença,N,N,S,12,4,95
+sumaríssimo,180,3644.76,comércio,direção,vale transporte,4,ausência,S,N,S,4,1,41
+trabalhista,198,18066.97,serviço,direção,plano de saúde,9,presença,N,S,N,13,13,102
+sumaríssimo,344,16757.32,indústria,direção,multa do Art. 467,7,ausência,S,N,S,15,7,105
+trabalhista,161,7033.1,comércio,direção,multa do Art. 467,6,ausência,S,S,S,11,33,119
+sumaríssimo,177,19103.15,indústria,execução,indenização por danos morais,5,presença,S,N,S,10,14,39
+trabalhista,285,16678.81,serviço,execução,fundo de garantia por tempo de serviço,9,ausência,N,S,S,3,37,125
+sumaríssimo,63,13659.83,serviço,direção,indenização por danos morais,2,ausência,S,N,S,14,9,178
+trabalhista,150,3313.48,serviço,execução,horas extras e reflexos,2,ausência,S,S,S,16,38,190
+trabalhista,154,10086.45,indústria,direção,horas extras e reflexos,9,ausência,N,S,S,10,37,89
+sumaríssimo,156,10616.04,indústria,direção,diferença salarial,3,presença,N,N,S,10,17,256
+trabalhista,49,5418.48,comércio,direção,horas extras e reflexos,8,ausência,S,S,S,12,51,94
+trabalhista,337,2519.34,serviço,execução,multa do Art. 467,9,ausência,S,S,S,9,19,153
+sumaríssimo,84,15757.75,indústria,direção,plano de saúde,8,presença,N,N,N,1,5,159
+trabalhista,177,3318.67,serviço,direção,verbas recisórias,4,ausência,N,S,N,5,9,86
+trabalhista,148,12291.52,serviço,execução,horas extras e reflexos,1,ausência,N,S,S,20,18,228
+trabalhista,118,18792.53,comércio,execução,indenização por danos morais,4,ausência,S,S,N,8,9,58
+sumaríssimo,342,17646.0,comércio,execução,seguro desemprego,9,ausência,S,N,N,11,17,44
+trabalhista,63,6277.3,comércio,direção,falta de registro em carteira,2,presença,S,S,S,12,26,248
+sumaríssimo,189,17177.52,comércio,direção,verbas recisórias,3,ausência,N,N,S,1,12,276
+trabalhista,360,1006.32,serviço,execução,verbas recisórias,10,presença,S,S,S,20,18,113
+trabalhista,49,1336.07,comércio,direção,adicional de insalubridade,8,ausência,N,S,N,11,3,154
+trabalhista,327,12448.51,comércio,execução,indenização por danos morais,6,ausência,S,S,N,5,10,132
+sumaríssimo,257,7931.17,comércio,execução,falta de registro em carteira,8,ausência,N,N,S,15,2,53
+trabalhista,224,8342.76,comércio,direção,multa do Art. 467,7,presença,S,S,S,5,30,178
+trabalhista,141,11724.38,serviço,direção,verbas recisórias,5,ausência,S,S,S,12,20,167
+sumaríssimo,215,4643.87,comércio,execução,diferença salarial,9,ausência,N,N,N,5,2,139
+trabalhista,211,5023.35,serviço,execução,indenização por danos morais,4,presença,N,S,N,17,10,107
+sumaríssimo,318,10207.43,indústria,execução,verbas recisórias,6,presença,S,N,N,17,6,130
+sumaríssimo,32,15330.82,serviço,execução,fundo de garantia por tempo de serviço,2,presença,N,N,N,12,11,175
+trabalhista,158,12770.46,serviço,direção,adicional noturno,2,presença,N,S,S,15,43,154
+sumaríssimo,285,6649.75,comércio,execução,adicional de insalubridade,2,ausência,S,N,S,15,15,242
+trabalhista,305,9176.41,indústria,execução,falta de registro em carteira,10,ausência,N,S,S,6,47,87
+sumaríssimo,286,4242.63,indústria,execução,horas extras e reflexos,7,ausência,S,N,S,12,9,105
+sumaríssimo,144,2417.97,indústria,direção,verbas recisórias,2,ausência,S,N,N,20,12,250
+trabalhista,19,15871.22,indústria,direção,indenização por danos morais,2,presença,N,S,N,18,3,223
+sumaríssimo,18,6042.36,serviço,execução,horas extras e reflexos,9,ausência,N,N,S,14,15,51
+sumaríssimo,257,4377.56,indústria,direção,adicional noturno,7,ausência,S,N,S,2,2,156
+sumaríssimo,78,14140.74,serviço,direção,diferença salarial,3,ausência,S,N,N,9,2,126
+sumaríssimo,175,12742.98,serviço,direção,horas extras e reflexos,3,ausência,S,N,S,5,3,146
+sumaríssimo,194,13030.6,serviço,execução,fundo de garantia por tempo de serviço,7,presença,S,N,N,20,6,125
+trabalhista,113,5349.0,indústria,execução,multa do Art. 467,5,ausência,S,S,S,1,29,177
+sumaríssimo,114,5420.27,comércio,direção,verbas recisórias,10,ausência,S,N,S,3,10,47
+trabalhista,222,5195.25,comércio,execução,multa do Art. 477,6,ausência,N,S,S,6,36,67
+sumaríssimo,166,4301.3,indústria,execução,multa do Art. 477,8,presença,N,N,S,5,1,138
+trabalhista,319,13458.75,comércio,direção,horas extras e reflexos,9,presença,N,S,S,5,38,152
+trabalhista,132,17112.3,comércio,direção,vale transporte,1,ausência,S,S,S,1,49,120
+sumaríssimo,264,14762.03,serviço,execução,falta de registro em carteira,3,ausência,N,N,S,17,9,291
+sumaríssimo,55,16049.78,serviço,direção,adicional de insalubridade,7,ausência,S,N,N,19,4,133
+sumaríssimo,359,8691.17,indústria,execução,multa do Art. 477,6,presença,S,N,N,14,2,169
+trabalhista,131,13427.44,indústria,execução,vale transporte,7,ausência,N,S,N,12,4,173
+sumaríssimo,288,7730.49,comércio,direção,plano de saúde,8,ausência,S,N,N,10,1,110
+trabalhista,266,10984.59,serviço,execução,multa do Art. 477,6,ausência,S,S,N,20,10,116
+trabalhista,162,10151.06,indústria,execução,vale transporte,3,presença,S,S,S,18,59,206
+trabalhista,87,4360.86,indústria,direção,falta de registro em carteira,2,ausência,S,S,S,11,41,160
+sumaríssimo,55,8354.5,indústria,direção,seguro desemprego,7,ausência,S,N,N,2,4,75
+sumaríssimo,288,19312.62,indústria,direção,multa do Art. 477,1,presença,S,N,S,18,2,242
+trabalhista,178,5723.02,indústria,execução,fundo de garantia por tempo de serviço,3,presença,N,S,N,7,13,194
+trabalhista,349,3542.27,indústria,direção,adicional noturno,4,ausência,S,S,N,15,1,73
+sumaríssimo,8,8953.03,comércio,direção,verbas recisórias,1,presença,S,N,S,11,17,161
+trabalhista,321,16016.42,serviço,direção,vale transporte,5,ausência,S,S,S,18,50,83
+sumaríssimo,313,12060.82,serviço,direção,adicional noturno,10,presença,S,N,S,12,4,73
+trabalhista,247,13938.52,indústria,execução,verbas recisórias,3,presença,N,S,N,6,7,236
+sumaríssimo,323,4604.2,serviço,execução,indenização por danos morais,2,ausência,N,N,S,20,17,280
+trabalhista,255,12760.02,serviço,direção,indenização por danos morais,3,ausência,S,S,N,13,9,297
+sumaríssimo,328,7146.51,serviço,execução,adicional de insalubridade,8,ausência,S,N,N,20,4,56
+trabalhista,54,16851.76,indústria,direção,adicional noturno,6,presença,S,S,N,16,1,145
+sumaríssimo,249,12956.68,indústria,direção,falta de registro em carteira,7,ausência,N,N,S,18,10,116
+sumaríssimo,239,4778.27,serviço,execução,vale transporte,6,ausência,N,N,S,10,4,133
+trabalhista,229,2227.72,serviço,execução,diferença salarial,6,ausência,N,S,N,8,9,152
+trabalhista,67,1810.03,indústria,direção,indenização por danos morais,3,ausência,N,S,S,18,45,182
+sumaríssimo,51,8056.76,comércio,direção,falta de registro em carteira,8,ausência,S,N,S,1,14,72
+trabalhista,97,6051.17,serviço,execução,adicional noturno,7,presença,N,S,S,8,30,126
+sumaríssimo,92,13275.71,comércio,direção,indenização por danos morais,7,ausência,N,N,N,6,6,60
+trabalhista,264,10487.34,serviço,execução,indenização por danos morais,6,ausência,S,S,N,5,16,128
+sumaríssimo,291,6054.37,comércio,direção,diferença salarial,5,presença,S,N,S,15,6,46
+sumaríssimo,96,3835.52,comércio,direção,multa do Art. 477,10,ausência,N,N,N,15,17,112
+sumaríssimo,88,3416.8,comércio,execução,horas extras e reflexos,8,ausência,N,N,S,2,10,139
+sumaríssimo,78,17428.55,indústria,execução,adicional noturno,5,ausência,N,N,S,1,3,61
+sumaríssimo,288,5626.08,comércio,execução,adicional de insalubridade,9,ausência,N,N,S,11,15,170
+sumaríssimo,120,13382.5,comércio,execução,seguro desemprego,9,ausência,S,N,S,10,15,64
+trabalhista,302,16403.03,comércio,execução,indenização por danos morais,1,presença,S,S,N,18,4,284
+trabalhista,165,12667.54,serviço,execução,adicional noturno,6,presença,N,S,N,18,9,58
+trabalhista,182,17331.74,comércio,execução,indenização por danos morais,7,presença,N,S,N,17,17,99
+sumaríssimo,223,8455.48,serviço,direção,fundo de garantia por tempo de serviço,3,ausência,N,N,S,8,11,246
+sumaríssimo,311,19168.22,comércio,direção,plano de saúde,7,presença,N,N,S,15,9,51
+sumaríssimo,7,3529.76,comércio,direção,seguro desemprego,7,ausência,N,N,S,8,10,98
+sumaríssimo,330,2940.84,indústria,execução,diferença salarial,2,ausência,S,N,N,17,13,295
+trabalhista,263,13515.15,serviço,execução,verbas recisórias,7,ausência,S,S,S,12,32,101
+trabalhista,161,18913.79,comércio,execução,vale transporte,1,presença,S,S,N,8,7,252
+sumaríssimo,151,16368.79,serviço,direção,indenização por danos morais,5,presença,N,N,N,14,17,116
+trabalhista,85,2451.92,serviço,execução,horas extras e reflexos,9,presença,N,S,N,4,15,125
+trabalhista,147,6307.99,indústria,execução,vale transporte,7,ausência,S,S,N,1,15,104
+sumaríssimo,112,18676.06,indústria,direção,seguro desemprego,7,presença,S,N,N,1,1,83
+trabalhista,36,5808.11,indústria,execução,vale transporte,2,ausência,N,S,N,19,14,167
+sumaríssimo,285,15842.24,indústria,direção,multa do Art. 477,8,presença,S,N,S,16,5,83
+trabalhista,188,16677.51,indústria,direção,indenização por danos morais,3,presença,N,S,S,14,39,122
+sumaríssimo,82,10413.59,indústria,execução,vale transporte,8,ausência,N,N,N,16,16,128
+sumaríssimo,2,8340.63,indústria,execução,verbas recisórias,3,ausência,S,N,N,5,2,235
+sumaríssimo,303,9552.36,indústria,execução,verbas recisórias,10,presença,S,N,S,9,8,75
+sumaríssimo,197,5312.33,comércio,direção,indenização por danos morais,7,presença,S,N,N,2,11,156
+trabalhista,11,17898.43,serviço,direção,multa do Art. 467,2,presença,N,S,N,18,3,294
+sumaríssimo,234,9561.77,indústria,direção,verbas recisórias,4,ausência,N,N,S,6,1,140
+sumaríssimo,195,17766.73,indústria,execução,vale transporte,6,ausência,S,N,N,9,11,158
+sumaríssimo,119,3008.18,serviço,execução,adicional de insalubridade,9,presença,N,N,N,1,16,110
+trabalhista,20,19777.23,comércio,execução,falta de registro em carteira,5,presença,N,S,N,9,16,113
+sumaríssimo,261,9422.19,serviço,execução,verbas recisórias,9,ausência,N,N,S,16,10,99
+trabalhista,293,1908.79,serviço,direção,adicional noturno,5,presença,S,S,S,13,39,37
+sumaríssimo,256,1722.42,indústria,direção,seguro desemprego,10,ausência,N,N,S,9,4,58
+trabalhista,222,15177.94,serviço,direção,multa do Art. 467,8,ausência,S,S,N,13,13,141
+trabalhista,226,13521.68,serviço,direção,adicional noturno,1,ausência,S,S,N,9,14,218
+sumaríssimo,53,16240.48,indústria,execução,vale transporte,7,ausência,N,N,S,11,3,137
+trabalhista,355,3001.98,indústria,execução,diferença salarial,4,ausência,S,S,N,4,10,138
+sumaríssimo,342,1675.85,indústria,execução,fundo de garantia por tempo de serviço,5,ausência,N,N,N,2,6,49
+sumaríssimo,280,10663.01,indústria,direção,diferença salarial,6,presença,S,N,N,6,1,102
+sumaríssimo,81,8364.31,serviço,direção,multa do Art. 477,5,ausência,S,N,N,14,14,33
+trabalhista,202,9776.99,serviço,execução,adicional noturno,1,ausência,N,S,N,4,8,235
+trabalhista,158,19840.18,comércio,execução,fundo de garantia por tempo de serviço,9,presença,S,S,S,6,41,131
+sumaríssimo,120,19444.25,comércio,direção,multa do Art. 477,2,ausência,S,N,N,19,10,133
+sumaríssimo,59,18903.99,serviço,execução,fundo de garantia por tempo de serviço,9,presença,S,N,S,6,17,170
+trabalhista,215,15893.01,comércio,direção,fundo de garantia por tempo de serviço,10,ausência,N,S,N,2,9,115
+sumaríssimo,128,7741.99,serviço,direção,falta de registro em carteira,2,presença,N,N,S,18,6,231
+sumaríssimo,224,8830.49,comércio,direção,horas extras e reflexos,9,presença,S,N,N,13,11,140
+sumaríssimo,209,11442.7,indústria,execução,seguro desemprego,6,ausência,S,N,S,9,7,138
+trabalhista,115,16780.15,comércio,execução,diferença salarial,9,ausência,S,S,N,19,17,115
+trabalhista,209,2305.54,indústria,direção,verbas recisórias,6,ausência,N,S,S,13,51,72
+trabalhista,14,9061.64,indústria,execução,vale transporte,6,ausência,N,S,N,11,5,71
+sumaríssimo,9,2569.74,indústria,direção,multa do Art. 467,2,presença,S,N,S,1,9,180
+sumaríssimo,40,10778.49,indústria,direção,seguro desemprego,8,presença,N,N,N,7,2,144
+sumaríssimo,237,18079.12,comércio,direção,multa do Art. 477,3,presença,N,N,S,15,11,278
+trabalhista,281,15867.21,serviço,direção,falta de registro em carteira,7,ausência,N,S,S,1,47,72
+sumaríssimo,359,5329.01,indústria,execução,multa do Art. 477,5,presença,N,N,N,12,8,106
+sumaríssimo,201,19543.83,comércio,direção,horas extras e reflexos,3,ausência,S,N,N,7,4,214
+sumaríssimo,246,13679.66,indústria,direção,multa do Art. 467,1,ausência,N,N,S,15,11,136
+sumaríssimo,278,1198.13,comércio,execução,plano de saúde,8,presença,N,N,N,19,5,68
+trabalhista,235,5852.86,comércio,direção,falta de registro em carteira,3,ausência,S,S,S,1,53,243
+trabalhista,4,5953.55,comércio,direção,multa do Art. 477,2,presença,S,S,S,17,25,143
+sumaríssimo,154,2315.83,serviço,execução,horas extras e reflexos,1,ausência,N,N,S,17,11,235
+trabalhista,29,19236.7,comércio,execução,plano de saúde,4,presença,N,S,N,3,13,40
+trabalhista,109,10086.85,comércio,execução,vale transporte,8,ausência,S,S,S,12,27,67
+sumaríssimo,98,18020.48,serviço,direção,vale transporte,3,presença,S,N,S,6,7,270
+sumaríssimo,215,7122.09,serviço,execução,multa do Art. 477,1,presença,S,N,N,11,11,201
+trabalhista,293,3379.44,comércio,execução,seguro desemprego,4,ausência,N,S,N,3,4,163
+sumaríssimo,75,10012.39,serviço,direção,multa do Art. 467,9,ausência,N,N,N,8,15,145
+trabalhista,326,3165.18,indústria,direção,indenização por danos morais,1,presença,S,S,N,14,1,169
+sumaríssimo,146,10234.29,indústria,direção,seguro desemprego,2,ausência,N,N,S,14,3,198
+trabalhista,128,18485.65,serviço,direção,vale transporte,9,ausência,S,S,S,10,41,128
+sumaríssimo,341,10894.59,serviço,direção,multa do Art. 467,2,ausência,N,N,S,2,6,198
+trabalhista,42,12713.49,comércio,execução,horas extras e reflexos,3,presença,S,S,S,14,51,189
+trabalhista,356,3976.13,serviço,execução,falta de registro em carteira,7,presença,S,S,N,9,6,147
+trabalhista,41,1830.98,comércio,execução,adicional de insalubridade,3,ausência,N,S,S,3,30,146
+sumaríssimo,34,3105.35,indústria,direção,adicional noturno,9,ausência,N,N,S,8,16,36
+trabalhista,17,12372.1,serviço,direção,fundo de garantia por tempo de serviço,6,presença,N,S,N,16,5,40
+trabalhista,165,2805.22,comércio,direção,multa do Art. 477,3,ausência,N,S,S,2,55,134
+sumaríssimo,153,8143.86,comércio,execução,adicional de insalubridade,9,presença,N,N,S,6,10,90
+sumaríssimo,76,11451.75,indústria,execução,diferença salarial,1,ausência,N,N,S,12,7,169
+trabalhista,87,8384.4,serviço,direção,multa do Art. 467,10,ausência,S,S,S,5,32,169
+trabalhista,117,4109.99,indústria,execução,adicional noturno,3,ausência,N,S,S,2,21,155
+sumaríssimo,342,6202.03,comércio,direção,verbas recisórias,1,presença,S,N,S,16,15,127
+sumaríssimo,27,18638.03,comércio,execução,horas extras e reflexos,2,presença,S,N,N,5,3,198
+sumaríssimo,313,13843.66,serviço,execução,indenização por danos morais,8,presença,N,N,N,15,4,80
+sumaríssimo,287,10424.91,comércio,execução,fundo de garantia por tempo de serviço,7,presença,S,N,S,12,5,146
+sumaríssimo,134,1241.58,serviço,direção,verbas recisórias,2,ausência,S,N,S,4,1,250
+trabalhista,219,19855.89,indústria,execução,indenização por danos morais,2,ausência,N,S,N,15,4,166
+sumaríssimo,168,13757.64,serviço,execução,diferença salarial,9,presença,N,N,S,11,12,117
+trabalhista,98,7021.53,serviço,direção,vale transporte,6,ausência,N,S,S,16,59,150
+trabalhista,268,17706.1,comércio,execução,seguro desemprego,5,ausência,S,S,S,6,42,42
+trabalhista,237,5910.2,comércio,direção,multa do Art. 477,10,presença,N,S,N,14,14,118
+sumaríssimo,309,11336.32,serviço,direção,falta de registro em carteira,6,ausência,N,N,S,18,5,154
+trabalhista,173,13085.34,comércio,direção,indenização por danos morais,9,ausência,N,S,N,12,4,147
+trabalhista,190,5200.2,comércio,direção,fundo de garantia por tempo de serviço,7,presença,N,S,S,11,37,83
+sumaríssimo,122,19589.55,comércio,direção,adicional de insalubridade,10,ausência,S,N,N,13,10,145
+trabalhista,46,15215.65,serviço,execução,plano de saúde,10,ausência,N,S,N,11,17,147
+trabalhista,64,11598.45,comércio,direção,multa do Art. 467,9,ausência,S,S,S,16,30,33
+sumaríssimo,130,4431.3,serviço,direção,vale transporte,4,presença,N,N,N,15,7,104
+trabalhista,310,2023.31,comércio,direção,plano de saúde,2,presença,S,S,S,15,48,224
+trabalhista,193,7081.14,indústria,direção,multa do Art. 467,8,ausência,S,S,N,4,1,36
+trabalhista,307,15310.56,comércio,execução,fundo de garantia por tempo de serviço,4,ausência,S,S,S,11,40,139
+sumaríssimo,181,6117.29,comércio,direção,multa do Art. 467,9,ausência,N,N,S,19,9,151
+sumaríssimo,292,11251.57,serviço,execução,indenização por danos morais,4,presença,S,N,N,15,6,40
+sumaríssimo,282,14831.0,serviço,direção,adicional de insalubridade,8,presença,N,N,S,4,13,121
+trabalhista,29,3050.93,comércio,execução,plano de saúde,9,presença,N,S,S,13,59,52
+trabalhista,149,14020.66,indústria,direção,horas extras e reflexos,9,ausência,N,S,N,19,7,57
+sumaríssimo,267,2745.55,comércio,direção,plano de saúde,10,ausência,N,N,S,2,9,140
+trabalhista,296,19337.47,comércio,execução,multa do Art. 467,4,ausência,N,S,S,14,54,86
+trabalhista,11,10279.49,indústria,direção,seguro desemprego,1,ausência,S,S,N,4,10,217
+sumaríssimo,164,3862.85,serviço,execução,adicional de insalubridade,3,ausência,N,N,N,16,17,215
+sumaríssimo,113,7505.29,comércio,direção,diferença salarial,9,presença,S,N,S,20,12,58
+trabalhista,187,8854.91,serviço,execução,falta de registro em carteira,4,ausência,S,S,S,14,41,126
+trabalhista,295,15405.52,serviço,direção,indenização por danos morais,5,ausência,S,S,N,15,3,43
+trabalhista,232,15125.05,indústria,direção,adicional noturno,7,ausência,S,S,N,3,9,107
+sumaríssimo,227,12626.87,indústria,execução,verbas recisórias,5,presença,S,N,S,8,15,64
+sumaríssimo,310,3012.68,serviço,direção,adicional de insalubridade,4,ausência,S,N,N,16,5,59
+sumaríssimo,98,3879.82,comércio,direção,adicional noturno,2,presença,S,N,S,10,13,279
+sumaríssimo,55,2781.38,serviço,direção,adicional noturno,2,presença,N,N,S,4,14,235
+trabalhista,111,11966.28,comércio,direção,adicional noturno,4,presença,S,S,S,18,32,122
+sumaríssimo,152,17665.63,comércio,direção,fundo de garantia por tempo de serviço,10,presença,N,N,S,2,16,108
+sumaríssimo,246,9242.21,indústria,direção,vale transporte,10,presença,S,N,S,17,13,139
+sumaríssimo,69,4056.12,comércio,execução,plano de saúde,9,ausência,S,N,N,13,17,131
+sumaríssimo,312,11602.8,comércio,execução,adicional de insalubridade,8,ausência,S,N,N,4,8,135
+sumaríssimo,289,16423.29,serviço,execução,indenização por danos morais,3,presença,S,N,N,11,2,132
+trabalhista,250,15092.53,indústria,direção,plano de saúde,9,presença,N,S,N,7,5,93
+trabalhista,36,17747.56,comércio,execução,plano de saúde,5,presença,N,S,S,12,34,93
+sumaríssimo,239,6280.14,comércio,direção,horas extras e reflexos,3,ausência,N,N,S,10,12,120
+trabalhista,148,4685.12,indústria,direção,adicional noturno,5,ausência,S,S,S,7,29,36
+sumaríssimo,227,17716.51,serviço,direção,vale transporte,10,presença,S,N,S,13,17,51
+sumaríssimo,244,13493.65,indústria,direção,seguro desemprego,4,ausência,S,N,N,7,11,110
+trabalhista,337,6907.65,indústria,execução,fundo de garantia por tempo de serviço,8,ausência,N,S,S,17,54,103
+trabalhista,201,15104.61,comércio,direção,vale transporte,5,presença,S,S,S,10,30,167
+sumaríssimo,154,16487.25,comércio,execução,multa do Art. 467,10,presença,N,N,N,10,10,164
+sumaríssimo,73,12684.59,serviço,direção,indenização por danos morais,8,ausência,N,N,N,4,15,154
+sumaríssimo,201,14069.8,comércio,execução,diferença salarial,9,ausência,S,N,N,20,4,79
+trabalhista,296,8129.94,comércio,execução,fundo de garantia por tempo de serviço,4,ausência,S,S,N,4,2,81
+sumaríssimo,17,11235.22,indústria,execução,multa do Art. 477,7,presença,N,N,S,7,9,30
+sumaríssimo,129,10959.02,comércio,execução,seguro desemprego,2,presença,N,N,S,1,10,153
+sumaríssimo,217,17112.91,serviço,execução,adicional noturno,6,presença,N,N,N,12,11,174
+trabalhista,61,16959.32,indústria,execução,falta de registro em carteira,8,ausência,S,S,S,13,42,161
+sumaríssimo,104,16820.93,serviço,direção,fundo de garantia por tempo de serviço,7,ausência,S,N,S,10,7,33
+sumaríssimo,42,1209.6,indústria,execução,horas extras e reflexos,7,presença,S,N,S,15,15,30
+trabalhista,25,15241.36,comércio,direção,indenização por danos morais,8,ausência,S,S,N,13,15,100
+sumaríssimo,39,15414.85,indústria,execução,multa do Art. 467,7,presença,S,N,S,9,8,64
+sumaríssimo,291,13889.2,indústria,direção,falta de registro em carteira,5,ausência,S,N,N,9,11,37
+trabalhista,131,15369.03,comércio,execução,falta de registro em carteira,7,presença,N,S,S,15,57,65
+sumaríssimo,229,16997.44,comércio,execução,seguro desemprego,10,ausência,N,N,S,10,15,152
+trabalhista,108,9936.06,serviço,direção,vale transporte,3,ausência,N,S,S,10,35,198
+trabalhista,172,10538.95,serviço,execução,horas extras e reflexos,5,presença,S,S,N,8,1,56
+sumaríssimo,102,3369.57,comércio,execução,vale transporte,7,presença,N,N,S,16,3,61
+sumaríssimo,354,8322.14,comércio,execução,multa do Art. 467,9,presença,S,N,N,17,10,107
+sumaríssimo,12,13223.94,comércio,direção,falta de registro em carteira,2,presença,S,N,N,5,8,197
+sumaríssimo,275,15827.6,indústria,execução,horas extras e reflexos,4,presença,N,N,N,4,15,175
+trabalhista,101,5126.97,indústria,direção,horas extras e reflexos,7,ausência,S,S,S,18,52,45
+sumaríssimo,44,3618.64,indústria,execução,verbas recisórias,1,presença,N,N,S,19,1,240
+trabalhista,305,13597.8,comércio,execução,plano de saúde,2,presença,N,S,S,4,33,212
+sumaríssimo,17,1035.72,serviço,direção,indenização por danos morais,9,presença,S,N,S,7,13,60
+sumaríssimo,330,4389.08,comércio,execução,falta de registro em carteira,10,presença,N,N,N,10,1,33
+sumaríssimo,57,1552.36,indústria,execução,falta de registro em carteira,7,presença,N,N,N,18,2,46
+trabalhista,311,4170.82,indústria,direção,horas extras e reflexos,10,ausência,N,S,N,19,16,68
+sumaríssimo,303,4445.07,comércio,execução,vale transporte,7,presença,N,N,S,4,15,77
+sumaríssimo,12,8365.8,comércio,direção,plano de saúde,6,presença,S,N,N,10,13,68
+sumaríssimo,318,8644.22,indústria,direção,falta de registro em carteira,3,presença,N,N,S,1,16,217
+sumaríssimo,80,17610.99,indústria,direção,horas extras e reflexos,10,ausência,N,N,N,18,17,59
+trabalhista,216,10692.08,indústria,execução,falta de registro em carteira,3,ausência,N,S,S,5,46,201
+sumaríssimo,339,14744.69,comércio,direção,plano de saúde,2,presença,S,N,S,15,17,278
+trabalhista,264,2978.61,indústria,direção,horas extras e reflexos,6,presença,N,S,N,17,7,137
+trabalhista,149,5283.34,indústria,execução,verbas recisórias,4,ausência,S,S,N,3,13,41
+trabalhista,81,14355.93,serviço,direção,indenização por danos morais,5,ausência,N,S,N,12,5,65
+trabalhista,215,2003.28,comércio,execução,plano de saúde,3,ausência,N,S,N,2,17,272
+trabalhista,198,10245.36,serviço,execução,horas extras e reflexos,6,presença,N,S,S,1,25,119
+trabalhista,200,12388.01,serviço,execução,plano de saúde,3,presença,S,S,N,17,7,157
+sumaríssimo,25,12440.77,indústria,execução,adicional de insalubridade,8,ausência,S,N,N,16,17,156
+trabalhista,89,1435.72,comércio,direção,plano de saúde,9,presença,S,S,N,5,7,119
+trabalhista,268,7120.05,indústria,direção,falta de registro em carteira,4,ausência,S,S,S,15,26,116
+trabalhista,143,13093.32,comércio,direção,multa do Art. 467,9,ausência,S,S,S,3,49,119
+sumaríssimo,59,3830.99,serviço,direção,indenização por danos morais,7,ausência,S,N,N,7,17,163
+sumaríssimo,26,14212.9,comércio,direção,verbas recisórias,3,presença,N,N,S,11,11,133
+trabalhista,47,15172.58,indústria,execução,adicional noturno,7,ausência,S,S,N,10,3,73
+sumaríssimo,288,19657.41,indústria,direção,horas extras e reflexos,1,ausência,N,N,S,9,15,255
+trabalhista,266,4987.0,indústria,direção,multa do Art. 467,3,presença,S,S,S,14,46,210
+trabalhista,16,16677.48,comércio,direção,horas extras e reflexos,6,ausência,S,S,S,13,57,130
+sumaríssimo,199,10885.63,serviço,execução,vale transporte,4,presença,S,N,S,2,9,175
+trabalhista,282,8095.79,serviço,execução,falta de registro em carteira,7,ausência,N,S,N,3,1,124
+sumaríssimo,86,3325.16,comércio,direção,fundo de garantia por tempo de serviço,3,presença,S,N,N,7,16,173
+sumaríssimo,250,14974.61,indústria,execução,seguro desemprego,1,ausência,S,N,N,18,9,249
+trabalhista,270,5481.29,serviço,direção,diferença salarial,9,ausência,N,S,S,3,52,62
+trabalhista,335,8057.02,indústria,direção,vale transporte,6,ausência,N,S,N,10,9,41
+sumaríssimo,117,2188.3,comércio,execução,multa do Art. 467,8,ausência,N,N,N,7,7,147
+trabalhista,7,16225.97,indústria,execução,vale transporte,3,ausência,N,S,N,9,14,220
+trabalhista,137,15565.18,serviço,direção,multa do Art. 477,8,presença,S,S,S,17,54,166
+trabalhista,176,14938.7,serviço,direção,horas extras e reflexos,2,presença,N,S,S,11,56,208
+sumaríssimo,328,6689.43,indústria,execução,horas extras e reflexos,4,ausência,S,N,S,7,13,105
+sumaríssimo,315,4296.12,comércio,direção,adicional de insalubridade,3,ausência,S,N,N,14,15,175
+trabalhista,215,13113.51,indústria,execução,diferença salarial,10,ausência,N,S,N,19,3,146
+sumaríssimo,82,10427.16,comércio,direção,diferença salarial,1,presença,S,N,N,4,11,213
+sumaríssimo,223,4386.8,indústria,execução,multa do Art. 477,7,presença,N,N,S,6,14,31
+sumaríssimo,103,14032.31,serviço,direção,falta de registro em carteira,10,ausência,S,N,S,10,8,146
+sumaríssimo,273,19831.4,comércio,direção,seguro desemprego,2,presença,N,N,N,7,16,212
+sumaríssimo,14,15197.17,comércio,execução,plano de saúde,4,ausência,N,N,S,13,2,32
+trabalhista,159,15059.74,comércio,direção,fundo de garantia por tempo de serviço,9,ausência,N,S,S,14,53,164
+trabalhista,152,19055.94,serviço,direção,adicional noturno,6,ausência,N,S,S,4,18,137
+trabalhista,108,4855.79,indústria,execução,fundo de garantia por tempo de serviço,8,presença,N,S,S,8,30,124
+sumaríssimo,188,11745.45,serviço,direção,verbas recisórias,2,ausência,N,N,N,5,15,203
+sumaríssimo,301,19613.29,comércio,direção,adicional de insalubridade,7,ausência,S,N,S,1,8,40
+trabalhista,98,4140.59,indústria,direção,adicional noturno,6,ausência,S,S,S,4,55,97
+sumaríssimo,131,14304.79,serviço,execução,verbas recisórias,9,presença,S,N,S,3,15,152
+trabalhista,293,12130.39,comércio,execução,falta de registro em carteira,7,presença,N,S,S,9,56,142
+trabalhista,171,12143.1,comércio,execução,verbas recisórias,1,presença,S,S,N,8,13,204
+trabalhista,183,14255.74,serviço,direção,verbas recisórias,8,ausência,N,S,N,1,2,122
+sumaríssimo,39,18662.72,serviço,direção,multa do Art. 477,10,presença,S,N,S,6,13,51
+sumaríssimo,15,15869.06,serviço,direção,multa do Art. 477,3,ausência,S,N,S,9,13,141
+trabalhista,4,2066.59,comércio,direção,verbas recisórias,2,presença,N,S,S,7,26,154
+trabalhista,349,17201.83,serviço,execução,vale transporte,3,ausência,S,S,S,4,34,135
+trabalhista,210,5285.29,comércio,direção,adicional noturno,6,presença,S,S,S,13,38,114
+trabalhista,161,8161.37,serviço,direção,indenização por danos morais,3,ausência,S,S,S,17,49,169
+sumaríssimo,16,9772.92,comércio,direção,indenização por danos morais,10,presença,N,N,N,2,14,173
+sumaríssimo,108,10137.21,comércio,execução,plano de saúde,5,presença,S,N,S,5,8,124
+trabalhista,311,9268.43,indústria,direção,plano de saúde,6,presença,N,S,N,12,4,171
+trabalhista,227,18809.71,serviço,direção,falta de registro em carteira,8,ausência,S,S,N,8,11,148
+sumaríssimo,170,14414.36,serviço,direção,fundo de garantia por tempo de serviço,7,presença,S,N,S,6,11,38
+sumaríssimo,34,12992.24,comércio,direção,adicional de insalubridade,8,presença,S,N,N,8,11,179
+trabalhista,251,1947.0,comércio,direção,diferença salarial,3,presença,S,S,N,18,2,241
+trabalhista,247,18174.35,comércio,execução,falta de registro em carteira,4,presença,N,S,N,3,17,82
+trabalhista,269,18278.41,indústria,direção,verbas recisórias,6,ausência,S,S,N,12,9,103
+sumaríssimo,141,15824.05,indústria,direção,multa do Art. 477,7,presença,N,N,N,3,2,68
+sumaríssimo,274,1133.55,comércio,direção,plano de saúde,9,ausência,N,N,N,6,15,151
+sumaríssimo,96,2088.32,serviço,direção,horas extras e reflexos,1,ausência,S,N,S,2,16,247
+trabalhista,227,5279.25,serviço,direção,vale transporte,8,ausência,S,S,N,12,4,152
+trabalhista,39,3495.64,indústria,direção,multa do Art. 467,8,ausência,N,S,N,2,8,140
+sumaríssimo,302,8577.88,indústria,direção,multa do Art. 477,6,presença,N,N,N,6,9,160
+sumaríssimo,29,18529.84,comércio,direção,indenização por danos morais,4,ausência,S,N,S,17,5,112
+trabalhista,318,9969.15,serviço,direção,adicional de insalubridade,3,ausência,S,S,N,3,16,232
+sumaríssimo,245,1254.65,comércio,direção,adicional noturno,3,ausência,S,N,S,2,13,290
+sumaríssimo,236,6372.17,indústria,execução,multa do Art. 477,6,ausência,S,N,N,20,7,58
+trabalhista,185,1847.3,serviço,execução,plano de saúde,8,presença,S,S,S,8,39,64
+sumaríssimo,272,1689.46,serviço,execução,vale transporte,7,presença,N,N,S,12,3,35
+trabalhista,236,6238.68,indústria,execução,adicional noturno,1,ausência,S,S,N,4,5,136
+trabalhista,239,6236.63,comércio,direção,plano de saúde,6,ausência,S,S,N,5,12,140
+trabalhista,266,15955.41,comércio,execução,diferença salarial,7,ausência,N,S,S,13,57,67
+trabalhista,359,19521.86,serviço,execução,verbas recisórias,7,presença,S,S,N,15,9,106
+trabalhista,340,8052.93,indústria,direção,horas extras e reflexos,9,presença,S,S,S,16,51,122
+trabalhista,65,9148.85,serviço,execução,indenização por danos morais,10,presença,N,S,S,10,29,176
+trabalhista,177,17051.0,indústria,execução,indenização por danos morais,5,presença,S,S,S,16,47,96
+sumaríssimo,3,6094.64,comércio,direção,adicional de insalubridade,1,presença,N,N,S,12,3,199
+trabalhista,142,3971.25,indústria,direção,seguro desemprego,2,ausência,S,S,S,17,41,249
+trabalhista,158,17208.7,comércio,direção,fundo de garantia por tempo de serviço,4,presença,S,S,N,16,10,151
+sumaríssimo,324,1883.51,indústria,execução,plano de saúde,5,presença,S,N,S,12,5,113
+sumaríssimo,146,12774.29,serviço,execução,diferença salarial,9,ausência,N,N,S,8,10,161
+sumaríssimo,293,11677.86,comércio,direção,indenização por danos morais,1,presença,N,N,N,20,12,251
+trabalhista,153,7572.49,serviço,direção,fundo de garantia por tempo de serviço,3,presença,N,S,S,3,21,204
+sumaríssimo,193,6988.6,serviço,execução,indenização por danos morais,5,presença,N,N,N,16,13,165
+trabalhista,73,15665.3,comércio,direção,adicional noturno,3,ausência,S,S,N,13,11,286
+trabalhista,305,2642.07,comércio,execução,verbas recisórias,4,presença,N,S,N,19,16,45
+trabalhista,344,5498.9,serviço,direção,fundo de garantia por tempo de serviço,3,ausência,N,S,S,8,44,213
+trabalhista,140,14916.53,serviço,direção,vale transporte,4,ausência,N,S,S,5,21,38
+sumaríssimo,187,11418.09,serviço,execução,plano de saúde,1,presença,S,N,S,20,8,253
+sumaríssimo,293,3431.78,serviço,direção,seguro desemprego,8,presença,S,N,N,8,13,107
+trabalhista,61,17760.58,comércio,direção,verbas recisórias,4,presença,N,S,S,12,44,106
+trabalhista,198,8475.51,comércio,direção,vale transporte,7,presença,N,S,N,1,12,100
+trabalhista,295,16729.5,serviço,execução,horas extras e reflexos,2,ausência,S,S,S,20,59,200
+sumaríssimo,319,15966.55,indústria,direção,diferença salarial,2,presença,N,N,N,6,12,188
+trabalhista,302,12864.08,indústria,direção,diferença salarial,6,ausência,N,S,S,18,44,131
+trabalhista,344,10395.14,comércio,direção,multa do Art. 467,2,ausência,N,S,S,8,55,188
+sumaríssimo,11,19611.47,serviço,direção,multa do Art. 467,6,ausência,N,N,S,7,16,142
+sumaríssimo,62,3754.34,serviço,direção,plano de saúde,2,ausência,S,N,N,1,17,267
+trabalhista,333,14777.96,comércio,direção,fundo de garantia por tempo de serviço,4,ausência,S,S,N,16,2,39
+sumaríssimo,226,4632.62,indústria,execução,adicional noturno,7,presença,S,N,S,12,12,139
+sumaríssimo,153,7427.0,indústria,execução,diferença salarial,8,ausência,N,N,S,6,17,142
+trabalhista,199,6865.28,indústria,direção,adicional de insalubridade,3,ausência,N,S,N,20,6,135
+sumaríssimo,52,18993.68,comércio,execução,plano de saúde,9,presença,S,N,N,2,15,41
+trabalhista,260,19379.77,indústria,execução,fundo de garantia por tempo de serviço,2,presença,S,S,N,14,3,170
+sumaríssimo,59,4477.29,comércio,direção,multa do Art. 467,8,ausência,S,N,S,4,6,141
+trabalhista,72,1418.67,comércio,execução,horas extras e reflexos,8,ausência,N,S,N,1,3,107
+trabalhista,148,14680.15,serviço,execução,indenização por danos morais,4,presença,S,S,S,18,49,150
+trabalhista,349,8941.81,indústria,execução,vale transporte,1,ausência,N,S,N,13,13,224
+sumaríssimo,63,2687.96,comércio,execução,plano de saúde,1,presença,N,N,S,2,14,284
+trabalhista,310,13991.33,indústria,execução,adicional noturno,2,presença,S,S,N,9,13,289
+sumaríssimo,243,11357.01,indústria,execução,multa do Art. 477,9,ausência,S,N,N,2,4,47
+trabalhista,330,19629.82,serviço,execução,plano de saúde,2,presença,N,S,N,9,7,185
+trabalhista,107,5320.78,indústria,execução,fundo de garantia por tempo de serviço,2,ausência,S,S,N,1,10,128
+sumaríssimo,226,8675.58,serviço,direção,horas extras e reflexos,6,ausência,S,N,N,11,7,107
+trabalhista,313,11308.37,comércio,direção,vale transporte,7,ausência,N,S,S,3,39,57
+trabalhista,218,16042.3,indústria,execução,diferença salarial,7,presença,N,S,N,20,15,175
+sumaríssimo,241,11427.93,comércio,execução,indenização por danos morais,9,ausência,N,N,N,4,4,88
+trabalhista,259,12645.1,indústria,direção,vale transporte,6,presença,N,S,N,18,6,92
+trabalhista,262,5296.79,comércio,execução,seguro desemprego,8,ausência,N,S,S,6,51,121
+trabalhista,5,17091.46,indústria,execução,multa do Art. 467,6,ausência,S,S,N,3,12,85
+trabalhista,261,9143.98,indústria,direção,vale transporte,2,presença,N,S,S,11,38,226
+sumaríssimo,54,3678.23,indústria,direção,multa do Art. 477,1,ausência,N,N,N,15,8,219
+sumaríssimo,47,13619.57,indústria,direção,horas extras e reflexos,5,ausência,N,N,N,5,1,97
+trabalhista,215,5105.72,indústria,execução,indenização por danos morais,9,presença,S,S,S,20,56,75
+sumaríssimo,177,2853.69,indústria,execução,adicional de insalubridade,8,presença,N,N,N,10,6,96
+trabalhista,9,17377.75,indústria,direção,verbas recisórias,4,presença,N,S,S,12,18,165
+sumaríssimo,99,9743.08,indústria,direção,vale transporte,5,ausência,N,N,S,15,15,35
+trabalhista,20,15236.39,indústria,execução,adicional de insalubridade,5,presença,S,S,N,17,5,53
+trabalhista,241,6521.16,comércio,direção,adicional de insalubridade,6,presença,N,S,S,10,52,123
+trabalhista,61,15952.43,serviço,execução,falta de registro em carteira,3,ausência,N,S,N,6,16,205
+trabalhista,178,3126.78,indústria,execução,multa do Art. 477,5,presença,N,S,N,18,6,54
+trabalhista,338,7763.49,serviço,direção,multa do Art. 477,2,ausência,S,S,S,13,28,183
+trabalhista,62,19583.17,indústria,direção,falta de registro em carteira,10,ausência,S,S,S,3,19,147
+sumaríssimo,145,16085.8,indústria,execução,seguro desemprego,1,presença,S,N,S,10,7,141
+trabalhista,216,10447.86,comércio,direção,verbas recisórias,1,ausência,S,S,S,14,26,281
+sumaríssimo,3,7455.77,comércio,direção,multa do Art. 467,10,presença,N,N,N,6,13,111
+trabalhista,160,17570.58,serviço,direção,horas extras e reflexos,7,presença,N,S,N,3,6,95
+sumaríssimo,227,11352.11,comércio,direção,indenização por danos morais,2,presença,S,N,S,16,2,276
+sumaríssimo,269,15410.08,comércio,execução,horas extras e reflexos,4,presença,S,N,N,7,8,143
+sumaríssimo,120,15328.05,serviço,execução,verbas recisórias,5,ausência,N,N,N,20,11,92
+trabalhista,89,1340.97,comércio,execução,horas extras e reflexos,7,ausência,N,S,N,14,1,105
+trabalhista,329,3398.82,indústria,execução,falta de registro em carteira,2,presença,S,S,N,9,6,285
+sumaríssimo,68,13532.96,serviço,direção,multa do Art. 477,6,presença,S,N,S,15,16,140
+trabalhista,357,4070.78,serviço,direção,horas extras e reflexos,1,ausência,S,S,S,3,25,229
+sumaríssimo,98,5854.37,indústria,execução,fundo de garantia por tempo de serviço,7,presença,S,N,N,2,11,64
+trabalhista,267,18986.12,comércio,execução,adicional de insalubridade,9,ausência,N,S,S,2,51,82
+sumaríssimo,105,11643.46,serviço,direção,plano de saúde,5,presença,S,N,S,3,3,55
+sumaríssimo,323,15263.86,serviço,execução,adicional de insalubridade,5,ausência,S,N,S,18,13,43
+trabalhista,123,11601.63,indústria,execução,vale transporte,4,ausência,N,S,N,14,3,147
+sumaríssimo,29,11497.76,indústria,direção,verbas recisórias,3,ausência,N,N,N,20,15,216
+trabalhista,137,2788.89,comércio,execução,seguro desemprego,9,presença,N,S,N,18,16,80
+sumaríssimo,195,7529.6,serviço,direção,adicional noturno,5,presença,N,N,S,10,13,148
+sumaríssimo,226,6366.19,comércio,direção,adicional noturno,8,presença,N,N,N,2,17,48
+trabalhista,332,8423.84,comércio,execução,fundo de garantia por tempo de serviço,9,presença,S,S,N,1,3,111
+trabalhista,170,16168.54,indústria,direção,falta de registro em carteira,5,presença,S,S,S,4,35,105
+trabalhista,9,8066.72,serviço,execução,diferença salarial,10,ausência,S,S,N,14,11,121
+sumaríssimo,40,9582.24,serviço,direção,falta de registro em carteira,9,ausência,N,N,N,1,16,62
+trabalhista,25,8550.25,serviço,execução,adicional de insalubridade,2,ausência,S,S,S,14,45,137
+sumaríssimo,261,2774.75,indústria,execução,seguro desemprego,9,ausência,N,N,S,16,6,57
+sumaríssimo,226,9380.37,indústria,execução,seguro desemprego,4,ausência,S,N,S,14,14,152
+trabalhista,124,4716.58,indústria,direção,fundo de garantia por tempo de serviço,6,ausência,S,S,N,20,17,155
+trabalhista,38,4547.74,indústria,direção,vale transporte,6,ausência,N,S,N,3,4,66
+sumaríssimo,328,2786.69,indústria,execução,verbas recisórias,6,presença,N,N,N,3,15,128
+sumaríssimo,251,7776.75,serviço,direção,plano de saúde,2,ausência,S,N,S,9,11,190
+trabalhista,176,15392.16,comércio,execução,multa do Art. 467,7,presença,S,S,S,6,48,156
+trabalhista,90,6252.39,serviço,execução,multa do Art. 477,6,ausência,S,S,N,13,3,109
+trabalhista,37,6934.63,comércio,direção,fundo de garantia por tempo de serviço,1,ausência,S,S,N,2,16,246
+trabalhista,316,13210.82,indústria,execução,seguro desemprego,2,presença,S,S,S,8,36,216
+trabalhista,176,4720.98,comércio,direção,adicional noturno,7,ausência,N,S,S,2,48,155
+sumaríssimo,284,18042.2,serviço,execução,diferença salarial,1,presença,N,N,S,4,4,120
+sumaríssimo,81,10883.62,serviço,direção,plano de saúde,1,ausência,N,N,S,15,11,251
+sumaríssimo,114,9504.46,comércio,execução,indenização por danos morais,1,presença,N,N,N,4,2,123
+sumaríssimo,40,11598.58,indústria,execução,seguro desemprego,8,ausência,S,N,S,13,10,45
+trabalhista,301,4154.65,indústria,direção,vale transporte,4,presença,S,S,N,12,11,57
+trabalhista,224,12655.99,serviço,execução,vale transporte,4,presença,N,S,N,13,16,75
+trabalhista,318,7898.91,comércio,execução,seguro desemprego,2,ausência,S,S,N,14,11,244
+sumaríssimo,349,18046.54,indústria,direção,vale transporte,1,ausência,N,N,S,20,14,201
+sumaríssimo,115,4208.23,indústria,execução,fundo de garantia por tempo de serviço,10,presença,S,N,S,18,2,55
+trabalhista,186,10633.97,serviço,direção,seguro desemprego,9,ausência,S,S,S,6,45,114
+trabalhista,323,12364.14,indústria,execução,seguro desemprego,7,presença,S,S,S,11,31,94
+sumaríssimo,56,1634.29,comércio,direção,verbas recisórias,4,ausência,N,N,N,2,12,163
+sumaríssimo,40,7910.17,serviço,execução,multa do Art. 477,6,presença,N,N,S,19,4,144
+trabalhista,354,14920.07,serviço,execução,diferença salarial,2,ausência,N,S,S,19,45,146
+trabalhista,40,16587.17,comércio,execução,vale transporte,7,presença,N,S,N,5,10,116
+sumaríssimo,347,6950.08,serviço,direção,verbas recisórias,2,ausência,S,N,S,19,6,290
+trabalhista,237,16173.27,indústria,direção,adicional de insalubridade,10,presença,S,S,N,2,14,125
+trabalhista,289,19387.36,indústria,direção,adicional de insalubridade,8,presença,S,S,N,10,11,106
+trabalhista,262,17280.6,comércio,direção,multa do Art. 467,8,ausência,S,S,N,2,11,175
+sumaríssimo,216,3235.24,indústria,execução,multa do Art. 467,1,ausência,N,N,N,11,11,178
+sumaríssimo,147,15054.88,comércio,execução,horas extras e reflexos,8,presença,S,N,N,18,12,178
+sumaríssimo,336,7073.67,comércio,direção,plano de saúde,2,presença,S,N,N,15,5,151
+sumaríssimo,168,19779.9,indústria,direção,fundo de garantia por tempo de serviço,6,presença,S,N,N,9,9,132
+sumaríssimo,92,10221.82,comércio,direção,fundo de garantia por tempo de serviço,1,presença,N,N,N,19,9,280
+sumaríssimo,353,3326.24,indústria,execução,falta de registro em carteira,5,ausência,N,N,S,9,10,74
+sumaríssimo,59,14778.53,serviço,direção,diferença salarial,7,presença,N,N,S,3,1,117
+trabalhista,59,7137.21,serviço,direção,adicional noturno,10,presença,S,S,S,9,25,144
+trabalhista,304,19944.48,comércio,execução,seguro desemprego,1,presença,N,S,S,14,22,147
+trabalhista,169,19615.87,indústria,execução,vale transporte,2,ausência,S,S,N,19,1,225
+trabalhista,269,13466.55,indústria,direção,diferença salarial,7,presença,S,S,S,7,48,79
+trabalhista,45,3466.7,serviço,execução,horas extras e reflexos,6,ausência,S,S,N,16,8,113
+trabalhista,345,14050.36,serviço,direção,adicional de insalubridade,3,ausência,N,S,S,16,55,224
+trabalhista,181,2767.58,indústria,execução,adicional de insalubridade,10,ausência,N,S,S,1,48,163
+sumaríssimo,170,1557.92,comércio,direção,falta de registro em carteira,2,ausência,S,N,S,4,17,189
+sumaríssimo,356,16636.21,serviço,direção,verbas recisórias,10,ausência,S,N,N,4,14,166
+trabalhista,191,4985.31,comércio,direção,diferença salarial,4,ausência,N,S,S,7,47,138
+trabalhista,155,8201.52,comércio,direção,verbas recisórias,3,ausência,N,S,N,8,16,181
+sumaríssimo,188,19495.69,serviço,execução,multa do Art. 467,7,presença,N,N,N,17,1,60
+trabalhista,7,7399.97,comércio,execução,adicional de insalubridade,8,presença,S,S,S,5,38,50
+trabalhista,133,6633.31,comércio,execução,vale transporte,2,ausência,S,S,S,7,33,153
+sumaríssimo,235,18445.95,indústria,execução,horas extras e reflexos,10,presença,S,N,S,20,12,69
+trabalhista,45,3104.22,comércio,direção,seguro desemprego,7,presença,N,S,N,20,8,141
+sumaríssimo,314,15432.07,indústria,direção,adicional noturno,8,ausência,N,N,S,4,6,74
+trabalhista,249,19773.25,serviço,execução,adicional de insalubridade,6,presença,N,S,N,6,3,106
+sumaríssimo,31,18124.62,serviço,execução,vale transporte,6,ausência,S,N,N,7,13,116
+sumaríssimo,23,13381.69,indústria,execução,adicional noturno,10,presença,S,N,S,18,13,177
+sumaríssimo,160,6967.16,serviço,execução,adicional noturno,1,ausência,N,N,S,5,2,206
+trabalhista,158,5832.12,comércio,execução,plano de saúde,4,ausência,S,S,N,20,5,146
+sumaríssimo,39,16565.85,comércio,direção,multa do Art. 477,1,presença,N,N,N,3,17,233
+trabalhista,82,17716.62,comércio,direção,fundo de garantia por tempo de serviço,4,presença,S,S,N,7,6,174
+trabalhista,356,10983.26,serviço,direção,horas extras e reflexos,2,ausência,N,S,S,14,32,225
+trabalhista,258,5642.46,comércio,execução,diferença salarial,5,ausência,S,S,N,7,4,54
+trabalhista,206,3145.92,serviço,execução,vale transporte,10,ausência,S,S,S,5,24,87
+sumaríssimo,77,2656.41,comércio,execução,adicional de insalubridade,9,presença,N,N,N,5,8,70
+sumaríssimo,12,14662.47,indústria,execução,adicional de insalubridade,10,presença,N,N,N,2,12,163
+trabalhista,295,8982.26,serviço,direção,adicional de insalubridade,3,presença,N,S,S,6,49,175
+trabalhista,224,18201.84,serviço,direção,indenização por danos morais,8,presença,N,S,N,15,11,67
+sumaríssimo,13,15053.75,comércio,execução,fundo de garantia por tempo de serviço,3,ausência,N,N,S,10,8,232
+trabalhista,46,4633.95,serviço,direção,fundo de garantia por tempo de serviço,6,ausência,S,S,S,7,42,104
+sumaríssimo,155,12661.77,serviço,direção,indenização por danos morais,4,ausência,N,N,N,5,17,171
+trabalhista,113,9274.6,indústria,execução,adicional noturno,8,ausência,N,S,S,1,56,95
+trabalhista,233,11967.74,indústria,execução,adicional noturno,6,presença,N,S,S,13,57,32
+sumaríssimo,17,15023.31,comércio,execução,plano de saúde,8,ausência,S,N,N,18,11,146
+trabalhista,360,16317.72,indústria,execução,adicional de insalubridade,1,ausência,N,S,S,13,30,132
+sumaríssimo,223,17031.01,comércio,execução,falta de registro em carteira,6,presença,N,N,S,18,16,48
+trabalhista,354,5825.52,comércio,execução,plano de saúde,1,presença,N,S,S,5,25,137
+trabalhista,188,1591.2,comércio,direção,falta de registro em carteira,1,ausência,S,S,N,13,15,232
+trabalhista,344,15046.6,serviço,direção,indenização por danos morais,8,presença,S,S,S,4,42,154
+sumaríssimo,163,3020.53,indústria,execução,multa do Art. 477,7,ausência,N,N,N,17,9,117
+trabalhista,326,6983.47,comércio,direção,multa do Art. 467,3,presença,S,S,N,3,3,290
+trabalhista,74,1072.53,indústria,execução,indenização por danos morais,6,presença,N,S,S,17,39,30
+trabalhista,233,13951.72,comércio,execução,multa do Art. 467,9,ausência,S,S,S,11,24,155
+trabalhista,224,4175.51,indústria,execução,vale transporte,7,presença,N,S,S,20,34,118
+sumaríssimo,319,13450.37,indústria,execução,multa do Art. 477,3,ausência,S,N,N,4,15,158
+sumaríssimo,60,19843.11,comércio,direção,adicional noturno,6,presença,N,N,S,2,8,176
+trabalhista,335,2380.75,serviço,execução,horas extras e reflexos,4,presença,N,S,S,20,18,54
+sumaríssimo,222,2464.48,indústria,direção,plano de saúde,3,presença,S,N,S,16,14,289
+trabalhista,37,7467.22,serviço,execução,adicional noturno,9,presença,N,S,S,18,21,102
+trabalhista,278,17461.34,serviço,execução,multa do Art. 467,10,presença,N,S,S,8,55,158
+trabalhista,196,5095.07,comércio,execução,fundo de garantia por tempo de serviço,2,ausência,N,S,N,3,17,198
+sumaríssimo,352,7847.18,comércio,direção,vale transporte,1,presença,N,N,N,9,17,265
+sumaríssimo,242,2301.6,comércio,execução,fundo de garantia por tempo de serviço,2,ausência,S,N,S,20,10,270
+sumaríssimo,324,15499.95,indústria,execução,plano de saúde,7,presença,N,N,S,6,14,133
+sumaríssimo,219,8757.82,comércio,execução,multa do Art. 477,10,ausência,S,N,S,10,11,175
+sumaríssimo,192,15425.73,comércio,direção,adicional noturno,1,presença,S,N,S,10,2,149
+sumaríssimo,17,18168.55,indústria,direção,plano de saúde,6,ausência,S,N,N,13,7,118
+sumaríssimo,12,5422.5,indústria,direção,multa do Art. 467,7,ausência,S,N,S,17,12,154
+sumaríssimo,193,16340.52,comércio,execução,plano de saúde,9,presença,N,N,N,9,2,74
+sumaríssimo,22,2122.78,comércio,direção,verbas recisórias,8,presença,N,N,N,17,6,163
+trabalhista,120,18078.1,comércio,execução,multa do Art. 477,6,presença,S,S,S,9,33,50
+sumaríssimo,210,13364.6,comércio,direção,multa do Art. 477,3,ausência,N,N,N,9,15,217
+sumaríssimo,306,17610.31,serviço,direção,verbas recisórias,8,ausência,S,N,N,1,5,99
+sumaríssimo,270,1003.58,serviço,execução,plano de saúde,7,presença,N,N,N,2,3,125
+sumaríssimo,192,4212.54,comércio,direção,vale transporte,3,presença,N,N,N,16,5,177
+sumaríssimo,175,8405.43,serviço,execução,multa do Art. 467,9,ausência,N,N,S,1,8,77
+sumaríssimo,285,8210.56,indústria,execução,multa do Art. 467,2,ausência,S,N,S,10,8,186
+sumaríssimo,204,5307.88,serviço,direção,adicional de insalubridade,3,presença,S,N,N,18,8,190
+sumaríssimo,164,8250.63,serviço,execução,fundo de garantia por tempo de serviço,2,ausência,N,N,S,8,12,265
+sumaríssimo,251,3448.13,comércio,execução,multa do Art. 477,1,presença,S,N,S,11,8,225
+sumaríssimo,227,8842.46,serviço,direção,plano de saúde,4,presença,S,N,S,2,11,47
+sumaríssimo,7,16244.73,serviço,direção,multa do Art. 477,5,presença,N,N,S,8,14,117
+trabalhista,29,10102.33,serviço,execução,seguro desemprego,6,ausência,S,S,S,8,34,154
+trabalhista,33,1342.0,serviço,direção,horas extras e reflexos,5,ausência,N,S,N,17,10,102
+sumaríssimo,134,9007.44,indústria,execução,multa do Art. 477,1,ausência,N,N,S,15,7,126
+sumaríssimo,79,1516.33,comércio,execução,diferença salarial,3,ausência,N,N,S,17,17,159
+trabalhista,58,19358.62,comércio,direção,horas extras e reflexos,1,presença,S,S,S,13,56,189
