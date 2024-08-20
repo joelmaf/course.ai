@@ -1,15 +1,19 @@
 import torch
 import torch.nn as nn
 
+# Definindo o modelo da rede neural
 class NeuralNet(nn.Module):
-    def __init__(self, input_size):
-        super(NeuralNet, self).__init__()
-        self.fc1 = nn.Linear(input_size, 64)
-        self.fc2 = nn.Linear(64, 32)
-        self.fc3 = nn.Linear(32, 1)
+    def __init__(self,input_size):
+        super().__init__()
+        self.linear_stack = nn.Sequential(
+            nn.Linear(input_size, 64),
+            nn.ReLU(),
+            nn.Dropout(0.25),
+            nn.Linear(64, 32),
+            nn.ReLU(),
+            nn.Linear(32, 1)
+        )
 
     def forward(self, x):
-        x = torch.relu(self.fc1(x))
-        x = torch.relu(self.fc2(x))
-        x = self.fc3(x)
-        return x
+        logits = self.linear_stack(x)
+        return logits
